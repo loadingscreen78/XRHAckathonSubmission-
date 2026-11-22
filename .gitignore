@@ -1,0 +1,65 @@
+# --- Data: never commit videos, annotations or features (licences) ---
+*.mp4
+*.MP4
+*.mkv
+*.avi
+*.mov
+*.webm
+/features/
+/data/
+/samples/
+/kit/
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.lmdb
+
+# --- Weights (large) ---
+/weights/
+
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# --- Outputs: JSON only is fine, but keep generated runs out of git ---
+outputs/*
+!outputs/.gitkeep
+
+# --- Caches / envs ---
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+/cache/
+.cache/
+wandb/
+lightning_logs/
+
+# --- Secrets ---
+.env
+.env.*
+*.key
+*.pem
+kaggle.json
+secrets*
+credentials*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Per-machine run artefacts (sent back as results_*.zip, committed deliberately) ---
+results_*.zip
+experiments/setup_log.txt
+experiments/pytest.txt
+experiments/pip_freeze.txt
+/.venv/
+
+# --- Demo video and weights: shipped via the v1.0 GitHub Release, not git ---
+/video/

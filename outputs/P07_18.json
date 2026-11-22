@@ -1,0 +1,919 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P07_18",
+ "duration_sec": 40.56,
+ "label": {
+  "name": "cooking",
+  "score": 0.974149
+ },
+ "actions": [
+  {
+   "segment": [
+    35.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.228462
+  },
+  {
+   "segment": [
+    8.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.168632
+  },
+  {
+   "segment": [
+    35.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.164489
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.154346
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.152073
+  },
+  {
+   "segment": [
+    8.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.121412
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.10949
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.098585
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.067518
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.064441
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.063682
+  },
+  {
+   "segment": [
+    12.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.05482
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.044165
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.043645
+  },
+  {
+   "segment": [
+    9.0,
+    16.0
+   ],
+   "verb": "mix",
+   "noun": "oatmeal",
+   "score": 0.03529
+  },
+  {
+   "segment": [
+    18.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.033916
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.03309
+  },
+  {
+   "segment": [
+    12.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.031326
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.027616
+  },
+  {
+   "segment": [
+    18.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.026136
+  },
+  {
+   "segment": [
+    9.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "oatmeal",
+   "score": 0.024435
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "oatmeal",
+   "score": 0.024135
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.024103
+  },
+  {
+   "segment": [
+    34.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.024084
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "oatmeal",
+   "score": 0.023615
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.023029
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.02134
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.02104
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.020877
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.020877
+  },
+  {
+   "segment": [
+    31.0,
+    34.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.020769
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.01999
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "oatmeal",
+   "score": 0.019488
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.018651
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.018539
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.018433
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.018093
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.01758
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.017545
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "tofu",
+   "score": 0.017421
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "yoghurt",
+   "score": 0.017419
+  },
+  {
+   "segment": [
+    34.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.017133
+  },
+  {
+   "segment": [
+    27.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "yoghurt",
+   "score": 0.01686
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "insert",
+   "noun": "oatmeal",
+   "score": 0.016711
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "insert",
+   "noun": "oatmeal",
+   "score": 0.016351
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.016082
+  },
+  {
+   "segment": [
+    27.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.015566
+  },
+  {
+   "segment": [
+    17.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.014994
+  },
+  {
+   "segment": [
+    17.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.014895
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "move",
+   "noun": "tofu",
+   "score": 0.014821
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.01474
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.014373
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.014064
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.013954
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.013954
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.013891
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.013773
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "oatmeal",
+   "score": 0.013493
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.013438
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.013364
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.012624
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.012391
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.012258
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "syrup",
+   "score": 0.012114
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "syrup",
+   "score": 0.012114
+  },
+  {
+   "segment": [
+    29.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.011965
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.01196
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.01196
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.011778
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.011575
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.011113
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.011082
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.011009
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.010953
+  },
+  {
+   "segment": [
+    31.0,
+    34.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.010799
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.010781
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "mix",
+   "noun": "oatmeal",
+   "score": 0.010405
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.010394
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.010326
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.010263
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.010263
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.00964
+  },
+  {
+   "segment": [
+    29.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.009572
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.009266
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.008747
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.008625
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.008234
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.008202
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.007637
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.00744
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "oatmeal",
+   "score": 0.007204
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.00699
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.006604
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "milk",
+   "score": 0.005578
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "chopstick",
+   "score": 0.005291
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "chopstick",
+   "score": 0.005206
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.00507
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.004794
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.004299
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.004112
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    13.0,
+    17.5
+   ]
+  }
+ ]
+}

@@ -1,0 +1,937 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P04_32",
+ "duration_sec": 53.54,
+ "label": {
+  "name": "cooking",
+  "score": 0.999997
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.26133
+  },
+  {
+   "segment": [
+    26.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.127653
+  },
+  {
+   "segment": [
+    26.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.115796
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.096807
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.059816
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.059111
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.05325
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.052622
+  },
+  {
+   "segment": [
+    3.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.048242
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.041519
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.039685
+  },
+  {
+   "segment": [
+    3.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "broccoli",
+   "score": 0.038896
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "set",
+   "noun": "machine:sous:vide",
+   "score": 0.036786
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.035919
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.034524
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.032946
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.032583
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.032202
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.030439
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.028798
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.026868
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.026678
+  },
+  {
+   "segment": [
+    31.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.026323
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.025935
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.025292
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.025112
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.023813
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.022909
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.022258
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "set",
+   "noun": "machine:sous:vide",
+   "score": 0.022151
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.021852
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.021505
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.021391
+  },
+  {
+   "segment": [
+    29.0,
+    34.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.02094
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.020528
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.020299
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.019858
+  },
+  {
+   "segment": [
+    29.0,
+    34.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.019711
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.019324
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.019108
+  },
+  {
+   "segment": [
+    27.0,
+    32.0
+   ],
+   "verb": "turn-on",
+   "noun": "processor:food",
+   "score": 0.018877
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.018805
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.018754
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "attach",
+   "noun": "machine:sous:vide",
+   "score": 0.0184
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.01832
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.01743
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.01737
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.017171
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.016898
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.016672
+  },
+  {
+   "segment": [
+    44.0,
+    53.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.016476
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.016419
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.016351
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.015704
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.01538
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.014642
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.01441
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.014262
+  },
+  {
+   "segment": [
+    8.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.014177
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.013641
+  },
+  {
+   "segment": [
+    8.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.013466
+  },
+  {
+   "segment": [
+    27.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "processor:food",
+   "score": 0.013219
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.012789
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.011907
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "cooker:slow",
+   "score": 0.011449
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "attach",
+   "noun": "machine:sous:vide",
+   "score": 0.011079
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "turn-on",
+   "noun": "processor:food",
+   "score": 0.01101
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.010134
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "turn-on",
+   "noun": "processor:food",
+   "score": 0.010031
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.009973
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.009033
+  },
+  {
+   "segment": [
+    33.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.008723
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "cooker:slow",
+   "score": 0.008606
+  },
+  {
+   "segment": [
+    33.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.008584
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.00854
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.008168
+  },
+  {
+   "segment": [
+    47.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.008077
+  },
+  {
+   "segment": [
+    47.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.007948
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "processor:food",
+   "score": 0.00771
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "tofu",
+   "score": 0.007473
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.007205
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "processor:food",
+   "score": 0.007024
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "move",
+   "noun": "cooker:slow",
+   "score": 0.006866
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.006656
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "tofu",
+   "score": 0.006357
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.006298
+  },
+  {
+   "segment": [
+    31.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.005756
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.005671
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "move",
+   "noun": "cooker:slow",
+   "score": 0.005161
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "tofu",
+   "score": 0.004983
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.004678
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.004343
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "move",
+   "noun": "tofu",
+   "score": 0.004239
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "check",
+   "noun": "recipe",
+   "score": 0.0035
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "tofu",
+   "score": 0.003325
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.003062
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "move",
+   "noun": "tofu",
+   "score": 0.002828
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "tofu",
+   "score": 0.002115
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "move",
+   "noun": "tofu",
+   "score": 0.0018
+  },
+  {
+   "segment": [
+    44.0,
+    53.0
+   ],
+   "verb": "check",
+   "noun": "recipe",
+   "score": 0.001453
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "check",
+   "noun": "recipe",
+   "score": 0.000797
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.00067
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    17.0,
+    21.5
+   ]
+  }
+ ]
+}

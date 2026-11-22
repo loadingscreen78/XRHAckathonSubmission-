@@ -1,0 +1,73 @@
+{
+  "env": {
+    "torch": "2.15.0+cpu",
+    "cuda": null,
+    "gpu": null,
+    "cpu": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+    "threads": 6
+  },
+  "plans": {
+    "clip_vitb16": {
+      "unit": "frame",
+      "per_min": 120,
+      "desc": "frames @2 fps, 224px"
+    },
+    "siglip_b16_224": {
+      "unit": "frame",
+      "per_min": 120,
+      "desc": "frames @2 fps, 224px"
+    },
+    "videomae_v2_b": {
+      "unit": "clip",
+      "per_min": 60,
+      "desc": "16-frame clip, 1 s stride, 224px"
+    },
+    "videomae_v2_b_0.5s": {
+      "unit": "clip",
+      "per_min": 120,
+      "desc": "16-frame clip, 0.5 s stride"
+    },
+    "slowfast_r50_8x8": {
+      "unit": "clip",
+      "per_min": 112.5,
+      "desc": "32-frame clip (8 slow / 32 fast), 16-frame stride @30 fps (ActionFormer EPIC setting), 224px"
+    }
+  },
+  "gpu_fp16": {},
+  "cpu_fp32": {
+    "clip_vitb16": {
+      "batch": 1,
+      "units_per_s": 7.528524638789494,
+      "peak_vram_gb": null
+    },
+    "siglip_b16_224": {
+      "batch": 4,
+      "units_per_s": 7.938743070719484,
+      "peak_vram_gb": null
+    },
+    "videomae_v2_b": {
+      "batch": 4,
+      "units_per_s": 0.9000042513950505,
+      "peak_vram_gb": null
+    },
+    "slowfast_r50_8x8": {
+      "batch": 1,
+      "units_per_s": 1.5101938462167699,
+      "peak_vram_gb": null
+    }
+  },
+  "decode": {
+    "full_decode_rgb_1080p": {
+      "frames": 1200,
+      "sec_per_video_min": 11.808953100001418
+    },
+    "2fps_resize_224": {
+      "frames": 40,
+      "sec_per_video_min": 2.196328800001538
+    },
+    "all_frames_resize_224": {
+      "frames": 1200,
+      "sec_per_video_min": 14.833590600001116
+    }
+  }
+}

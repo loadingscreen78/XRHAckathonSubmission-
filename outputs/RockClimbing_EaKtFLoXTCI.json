@@ -1,0 +1,11425 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "RockClimbing_EaKtFLoXTCI",
+ "duration_sec": 373.94,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.956661
+ },
+ "actions": [
+  {
+   "segment": [
+    228.0,
+    234.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.217102
+  },
+  {
+   "segment": [
+    253.0,
+    256.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.179455
+  },
+  {
+   "segment": [
+    45.0,
+    52.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.17799
+  },
+  {
+   "segment": [
+    328.0,
+    332.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.153296
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.14494
+  },
+  {
+   "segment": [
+    216.0,
+    223.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.134816
+  },
+  {
+   "segment": [
+    216.0,
+    223.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.134816
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.125833
+  },
+  {
+   "segment": [
+    289.0,
+    294.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.124797
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.123493
+  },
+  {
+   "segment": [
+    265.0,
+    269.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.123445
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.122664
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.116896
+  },
+  {
+   "segment": [
+    365.0,
+    368.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.108498
+  },
+  {
+   "segment": [
+    107.0,
+    116.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.108247
+  },
+  {
+   "segment": [
+    141.0,
+    145.0
+   ],
+   "verb": "cut",
+   "noun": "pear",
+   "score": 0.097513
+  },
+  {
+   "segment": [
+    317.0,
+    321.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.092055
+  },
+  {
+   "segment": [
+    340.0,
+    345.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.090977
+  },
+  {
+   "segment": [
+    271.0,
+    274.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.087244
+  },
+  {
+   "segment": [
+    290.0,
+    294.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.085729
+  },
+  {
+   "segment": [
+    366.0,
+    369.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.082681
+  },
+  {
+   "segment": [
+    66.0,
+    69.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.080784
+  },
+  {
+   "segment": [
+    102.0,
+    105.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.08035
+  },
+  {
+   "segment": [
+    1.0,
+    6.0
+   ],
+   "verb": "remove",
+   "noun": "label",
+   "score": 0.075156
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.071453
+  },
+  {
+   "segment": [
+    79.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.07133
+  },
+  {
+   "segment": [
+    175.0,
+    178.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.070279
+  },
+  {
+   "segment": [
+    259.0,
+    261.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.070177
+  },
+  {
+   "segment": [
+    199.0,
+    204.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.068863
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "turkey",
+   "score": 0.067818
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.06619
+  },
+  {
+   "segment": [
+    238.0,
+    241.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.066109
+  },
+  {
+   "segment": [
+    154.0,
+    159.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.063556
+  },
+  {
+   "segment": [
+    281.0,
+    285.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.06217
+  },
+  {
+   "segment": [
+    228.0,
+    234.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.060778
+  },
+  {
+   "segment": [
+    363.0,
+    366.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.059206
+  },
+  {
+   "segment": [
+    43.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.058872
+  },
+  {
+   "segment": [
+    140.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.058717
+  },
+  {
+   "segment": [
+    140.0,
+    145.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.058717
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.057371
+  },
+  {
+   "segment": [
+    193.0,
+    197.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.056974
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.056442
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.055778
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.054594
+  },
+  {
+   "segment": [
+    157.0,
+    161.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.053126
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.052461
+  },
+  {
+   "segment": [
+    290.0,
+    294.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.051438
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.051166
+  },
+  {
+   "segment": [
+    79.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.050709
+  },
+  {
+   "segment": [
+    253.0,
+    256.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.050239
+  },
+  {
+   "segment": [
+    119.0,
+    123.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.049895
+  },
+  {
+   "segment": [
+    318.0,
+    321.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.049832
+  },
+  {
+   "segment": [
+    165.0,
+    169.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.049335
+  },
+  {
+   "segment": [
+    141.0,
+    145.0
+   ],
+   "verb": "throw",
+   "noun": "pear",
+   "score": 0.048756
+  },
+  {
+   "segment": [
+    281.0,
+    285.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.048654
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.048342
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.0477
+  },
+  {
+   "segment": [
+    171.0,
+    177.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.047375
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.047105
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.047047
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.046572
+  },
+  {
+   "segment": [
+    295.0,
+    300.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.046385
+  },
+  {
+   "segment": [
+    227.0,
+    230.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.046381
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.045546
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.045546
+  },
+  {
+   "segment": [
+    85.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.045499
+  },
+  {
+   "segment": [
+    45.0,
+    48.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.045315
+  },
+  {
+   "segment": [
+    369.0,
+    372.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.045077
+  },
+  {
+   "segment": [
+    151.0,
+    154.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.045062
+  },
+  {
+   "segment": [
+    157.0,
+    161.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.044961
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.043911
+  },
+  {
+   "segment": [
+    352.0,
+    355.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.043697
+  },
+  {
+   "segment": [
+    135.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.043494
+  },
+  {
+   "segment": [
+    221.0,
+    224.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.043191
+  },
+  {
+   "segment": [
+    366.0,
+    369.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.04299
+  },
+  {
+   "segment": [
+    280.0,
+    282.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.042943
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.042872
+  },
+  {
+   "segment": [
+    65.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.042797
+  },
+  {
+   "segment": [
+    248.0,
+    251.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.042729
+  },
+  {
+   "segment": [
+    171.0,
+    177.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.042114
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.041852
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.041694
+  },
+  {
+   "segment": [
+    301.0,
+    304.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.041621
+  },
+  {
+   "segment": [
+    101.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.041555
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.041396
+  },
+  {
+   "segment": [
+    271.0,
+    283.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.039557
+  },
+  {
+   "segment": [
+    322.0,
+    324.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.039484
+  },
+  {
+   "segment": [
+    355.0,
+    360.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.03932
+  },
+  {
+   "segment": [
+    37.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.039204
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.03903
+  },
+  {
+   "segment": [
+    236.0,
+    238.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.038983
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.038543
+  },
+  {
+   "segment": [
+    165.0,
+    169.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.038049
+  },
+  {
+   "segment": [
+    326.0,
+    332.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.037885
+  },
+  {
+   "segment": [
+    367.0,
+    371.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.037483
+  },
+  {
+   "segment": [
+    227.0,
+    230.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.037113
+  },
+  {
+   "segment": [
+    299.0,
+    303.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.03709
+  },
+  {
+   "segment": [
+    98.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.036831
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.036617
+  },
+  {
+   "segment": [
+    352.0,
+    355.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.036409
+  },
+  {
+   "segment": [
+    353.0,
+    355.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.036374
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.036097
+  },
+  {
+   "segment": [
+    206.0,
+    209.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.035732
+  },
+  {
+   "segment": [
+    206.0,
+    209.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.035732
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.035553
+  },
+  {
+   "segment": [
+    111.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.035546
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.035473
+  },
+  {
+   "segment": [
+    321.0,
+    323.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.035104
+  },
+  {
+   "segment": [
+    321.0,
+    323.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.035104
+  },
+  {
+   "segment": [
+    256.0,
+    259.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.034963
+  },
+  {
+   "segment": [
+    289.0,
+    294.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.034937
+  },
+  {
+   "segment": [
+    148.0,
+    153.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.034653
+  },
+  {
+   "segment": [
+    265.0,
+    269.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.034559
+  },
+  {
+   "segment": [
+    260.0,
+    262.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.034497
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.034302
+  },
+  {
+   "segment": [
+    101.0,
+    104.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.034002
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.033939
+  },
+  {
+   "segment": [
+    25.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "turkey",
+   "score": 0.033904
+  },
+  {
+   "segment": [
+    98.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.03358
+  },
+  {
+   "segment": [
+    172.0,
+    175.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.032848
+  },
+  {
+   "segment": [
+    172.0,
+    175.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.032848
+  },
+  {
+   "segment": [
+    150.0,
+    154.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.032778
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.032726
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.032541
+  },
+  {
+   "segment": [
+    271.0,
+    283.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.032367
+  },
+  {
+   "segment": [
+    282.0,
+    284.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.03228
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.032102
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.032102
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.032085
+  },
+  {
+   "segment": [
+    37.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.032078
+  },
+  {
+   "segment": [
+    188.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.032018
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.031904
+  },
+  {
+   "segment": [
+    165.0,
+    169.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.031702
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.031692
+  },
+  {
+   "segment": [
+    115.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.031641
+  },
+  {
+   "segment": [
+    209.0,
+    215.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.031382
+  },
+  {
+   "segment": [
+    209.0,
+    215.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.031382
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.031359
+  },
+  {
+   "segment": [
+    76.0,
+    79.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.031135
+  },
+  {
+   "segment": [
+    326.0,
+    332.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.030999
+  },
+  {
+   "segment": [
+    259.0,
+    266.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.030962
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "chicken",
+   "score": 0.030498
+  },
+  {
+   "segment": [
+    199.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.030456
+  },
+  {
+   "segment": [
+    65.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.030425
+  },
+  {
+   "segment": [
+    299.0,
+    303.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.030349
+  },
+  {
+   "segment": [
+    175.0,
+    178.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.030087
+  },
+  {
+   "segment": [
+    367.0,
+    371.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.029988
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.029971
+  },
+  {
+   "segment": [
+    351.0,
+    354.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.029958
+  },
+  {
+   "segment": [
+    164.0,
+    167.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.02992
+  },
+  {
+   "segment": [
+    119.0,
+    124.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.029662
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.029443
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.029443
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.029403
+  },
+  {
+   "segment": [
+    100.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.029319
+  },
+  {
+   "segment": [
+    264.0,
+    266.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.029247
+  },
+  {
+   "segment": [
+    256.0,
+    259.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.029131
+  },
+  {
+   "segment": [
+    111.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.029085
+  },
+  {
+   "segment": [
+    293.0,
+    296.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.029021
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.028746
+  },
+  {
+   "segment": [
+    108.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.028702
+  },
+  {
+   "segment": [
+    85.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.0286
+  },
+  {
+   "segment": [
+    138.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.028591
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.02858
+  },
+  {
+   "segment": [
+    233.0,
+    235.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.028538
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.028453
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.028345
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.028292
+  },
+  {
+   "segment": [
+    366.0,
+    368.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.028125
+  },
+  {
+   "segment": [
+    286.0,
+    291.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.028066
+  },
+  {
+   "segment": [
+    235.0,
+    239.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.027825
+  },
+  {
+   "segment": [
+    235.0,
+    239.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.027825
+  },
+  {
+   "segment": [
+    317.0,
+    326.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.027752
+  },
+  {
+   "segment": [
+    265.0,
+    267.0
+   ],
+   "verb": "cut",
+   "noun": "pear",
+   "score": 0.027737
+  },
+  {
+   "segment": [
+    325.0,
+    329.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.027362
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.02731
+  },
+  {
+   "segment": [
+    85.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.0273
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.027204
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.027139
+  },
+  {
+   "segment": [
+    235.0,
+    245.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.02713
+  },
+  {
+   "segment": [
+    150.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.026821
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.026729
+  },
+  {
+   "segment": [
+    284.0,
+    286.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.026661
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.02663
+  },
+  {
+   "segment": [
+    279.0,
+    285.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.026597
+  },
+  {
+   "segment": [
+    331.0,
+    334.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.02652
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.026422
+  },
+  {
+   "segment": [
+    160.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.026394
+  },
+  {
+   "segment": [
+    112.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.026391
+  },
+  {
+   "segment": [
+    56.0,
+    59.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.026351
+  },
+  {
+   "segment": [
+    106.0,
+    109.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.026018
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.025719
+  },
+  {
+   "segment": [
+    301.0,
+    304.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.025685
+  },
+  {
+   "segment": [
+    100.0,
+    103.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.025652
+  },
+  {
+   "segment": [
+    17.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.025587
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.025563
+  },
+  {
+   "segment": [
+    144.0,
+    148.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.025473
+  },
+  {
+   "segment": [
+    340.0,
+    345.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.025469
+  },
+  {
+   "segment": [
+    71.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.025254
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.025148
+  },
+  {
+   "segment": [
+    346.0,
+    349.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.025014
+  },
+  {
+   "segment": [
+    203.0,
+    205.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.025001
+  },
+  {
+   "segment": [
+    177.0,
+    180.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.024943
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.024802
+  },
+  {
+   "segment": [
+    365.0,
+    367.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.024698
+  },
+  {
+   "segment": [
+    175.0,
+    178.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.024618
+  },
+  {
+   "segment": [
+    320.0,
+    322.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.024542
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.024389
+  },
+  {
+   "segment": [
+    119.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.02427
+  },
+  {
+   "segment": [
+    85.0,
+    90.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.024195
+  },
+  {
+   "segment": [
+    197.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.024041
+  },
+  {
+   "segment": [
+    225.0,
+    228.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.023753
+  },
+  {
+   "segment": [
+    136.0,
+    139.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.023673
+  },
+  {
+   "segment": [
+    332.0,
+    335.0
+   ],
+   "verb": "take",
+   "noun": "chicken",
+   "score": 0.023627
+  },
+  {
+   "segment": [
+    304.0,
+    307.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.023593
+  },
+  {
+   "segment": [
+    355.0,
+    360.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.023592
+  },
+  {
+   "segment": [
+    249.0,
+    252.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.023562
+  },
+  {
+   "segment": [
+    256.0,
+    258.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.023533
+  },
+  {
+   "segment": [
+    108.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.023485
+  },
+  {
+   "segment": [
+    53.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.023442
+  },
+  {
+   "segment": [
+    366.0,
+    368.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.023434
+  },
+  {
+   "segment": [
+    53.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.023392
+  },
+  {
+   "segment": [
+    227.0,
+    230.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.023363
+  },
+  {
+   "segment": [
+    255.0,
+    258.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.023353
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.023353
+  },
+  {
+   "segment": [
+    158.0,
+    161.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.023323
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.02315
+  },
+  {
+   "segment": [
+    148.0,
+    153.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.023102
+  },
+  {
+   "segment": [
+    232.0,
+    235.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.023045
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.023018
+  },
+  {
+   "segment": [
+    277.0,
+    279.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.023002
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.022942
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.022908
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.022864
+  },
+  {
+   "segment": [
+    188.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.022762
+  },
+  {
+   "segment": [
+    252.0,
+    255.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.022756
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.022717
+  },
+  {
+   "segment": [
+    317.0,
+    326.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.022708
+  },
+  {
+   "segment": [
+    125.0,
+    128.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.022701
+  },
+  {
+   "segment": [
+    128.0,
+    131.0
+   ],
+   "verb": "smell",
+   "noun": "face",
+   "score": 0.022694
+  },
+  {
+   "segment": [
+    128.0,
+    131.0
+   ],
+   "verb": "rub",
+   "noun": "face",
+   "score": 0.022694
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.022623
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.022619
+  },
+  {
+   "segment": [
+    266.0,
+    268.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.022602
+  },
+  {
+   "segment": [
+    177.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.022497
+  },
+  {
+   "segment": [
+    286.0,
+    291.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.022458
+  },
+  {
+   "segment": [
+    145.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.022372
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.022213
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.022213
+  },
+  {
+   "segment": [
+    235.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.022199
+  },
+  {
+   "segment": [
+    365.0,
+    367.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.022168
+  },
+  {
+   "segment": [
+    259.0,
+    266.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.022011
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.021947
+  },
+  {
+   "segment": [
+    306.0,
+    309.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.021908
+  },
+  {
+   "segment": [
+    306.0,
+    309.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.021908
+  },
+  {
+   "segment": [
+    325.0,
+    329.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.021891
+  },
+  {
+   "segment": [
+    330.0,
+    333.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.021879
+  },
+  {
+   "segment": [
+    359.0,
+    362.0
+   ],
+   "verb": "smell",
+   "noun": "face",
+   "score": 0.021809
+  },
+  {
+   "segment": [
+    359.0,
+    362.0
+   ],
+   "verb": "rub",
+   "noun": "face",
+   "score": 0.021809
+  },
+  {
+   "segment": [
+    294.0,
+    296.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.021797
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.02179
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.021751
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.021732
+  },
+  {
+   "segment": [
+    199.0,
+    203.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.021652
+  },
+  {
+   "segment": [
+    144.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.021558
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.021556
+  },
+  {
+   "segment": [
+    154.0,
+    158.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.021548
+  },
+  {
+   "segment": [
+    353.0,
+    356.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.021547
+  },
+  {
+   "segment": [
+    331.0,
+    334.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.021417
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.021414
+  },
+  {
+   "segment": [
+    62.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.021406
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.021391
+  },
+  {
+   "segment": [
+    279.0,
+    285.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.021279
+  },
+  {
+   "segment": [
+    245.0,
+    248.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.021237
+  },
+  {
+   "segment": [
+    210.0,
+    214.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.021232
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.021227
+  },
+  {
+   "segment": [
+    232.0,
+    236.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.02111
+  },
+  {
+   "segment": [
+    17.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.020936
+  },
+  {
+   "segment": [
+    226.0,
+    228.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.020844
+  },
+  {
+   "segment": [
+    226.0,
+    228.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.020844
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.020819
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.020819
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.020788
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.020628
+  },
+  {
+   "segment": [
+    312.0,
+    315.0
+   ],
+   "verb": "wash",
+   "noun": "wall",
+   "score": 0.020622
+  },
+  {
+   "segment": [
+    301.0,
+    304.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.020553
+  },
+  {
+   "segment": [
+    74.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.020498
+  },
+  {
+   "segment": [
+    320.0,
+    322.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.020448
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.020447
+  },
+  {
+   "segment": [
+    119.0,
+    122.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.020359
+  },
+  {
+   "segment": [
+    138.0,
+    142.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.020326
+  },
+  {
+   "segment": [
+    33.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.0203
+  },
+  {
+   "segment": [
+    358.0,
+    362.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.020271
+  },
+  {
+   "segment": [
+    362.0,
+    364.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.020269
+  },
+  {
+   "segment": [
+    351.0,
+    354.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.020269
+  },
+  {
+   "segment": [
+    365.0,
+    367.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.020209
+  },
+  {
+   "segment": [
+    164.0,
+    167.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.019946
+  },
+  {
+   "segment": [
+    253.0,
+    256.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.019899
+  },
+  {
+   "segment": [
+    152.0,
+    156.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.019733
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.019713
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "break",
+   "noun": "chicken",
+   "score": 0.019684
+  },
+  {
+   "segment": [
+    197.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.019671
+  },
+  {
+   "segment": [
+    173.0,
+    176.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.019439
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.019177
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.01917
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.01917
+  },
+  {
+   "segment": [
+    53.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.01914
+  },
+  {
+   "segment": [
+    348.0,
+    353.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.019063
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.019002
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.018977
+  },
+  {
+   "segment": [
+    305.0,
+    308.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.018946
+  },
+  {
+   "segment": [
+    217.0,
+    221.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.018896
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.018838
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.018772
+  },
+  {
+   "segment": [
+    307.0,
+    310.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.018771
+  },
+  {
+   "segment": [
+    112.0,
+    117.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.018761
+  },
+  {
+   "segment": [
+    255.0,
+    258.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.018684
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "turn",
+   "noun": "knob",
+   "score": 0.018653
+  },
+  {
+   "segment": [
+    210.0,
+    214.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.018583
+  },
+  {
+   "segment": [
+    110.0,
+    113.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.018513
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.018491
+  },
+  {
+   "segment": [
+    329.0,
+    331.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.018477
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "pork",
+   "score": 0.018443
+  },
+  {
+   "segment": [
+    315.0,
+    318.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.018442
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.018423
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.018401
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.018401
+  },
+  {
+   "segment": [
+    336.0,
+    340.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.018366
+  },
+  {
+   "segment": [
+    225.0,
+    227.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.018304
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.018178
+  },
+  {
+   "segment": [
+    335.0,
+    337.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.018167
+  },
+  {
+   "segment": [
+    277.0,
+    280.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.018115
+  },
+  {
+   "segment": [
+    273.0,
+    275.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.018001
+  },
+  {
+   "segment": [
+    367.0,
+    371.0
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.017808
+  },
+  {
+   "segment": [
+    346.0,
+    349.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.017783
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.017747
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.01752
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.017507
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.017507
+  },
+  {
+   "segment": [
+    248.0,
+    250.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.017461
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.017447
+  },
+  {
+   "segment": [
+    138.0,
+    141.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.017434
+  },
+  {
+   "segment": [
+    138.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.017434
+  },
+  {
+   "segment": [
+    253.0,
+    256.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.017417
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.017412
+  },
+  {
+   "segment": [
+    362.0,
+    364.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.017247
+  },
+  {
+   "segment": [
+    353.0,
+    356.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.017239
+  },
+  {
+   "segment": [
+    217.0,
+    221.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.017043
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.017036
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "flour",
+   "score": 0.017012
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.016942
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.016942
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.016904
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.016886
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.016884
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.016867
+  },
+  {
+   "segment": [
+    371.0,
+    373.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.016764
+  },
+  {
+   "segment": [
+    258.0,
+    261.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.016752
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.016736
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.01672
+  },
+  {
+   "segment": [
+    1.0,
+    6.0
+   ],
+   "verb": "look",
+   "noun": "label",
+   "score": 0.016705
+  },
+  {
+   "segment": [
+    346.0,
+    349.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.016694
+  },
+  {
+   "segment": [
+    320.0,
+    323.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.016641
+  },
+  {
+   "segment": [
+    320.0,
+    323.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.016641
+  },
+  {
+   "segment": [
+    227.0,
+    230.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.016609
+  },
+  {
+   "segment": [
+    234.0,
+    237.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0166
+  },
+  {
+   "segment": [
+    363.0,
+    366.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.016575
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.016531
+  },
+  {
+   "segment": [
+    317.0,
+    319.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.016488
+  },
+  {
+   "segment": [
+    43.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.016481
+  },
+  {
+   "segment": [
+    152.0,
+    156.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.016442
+  },
+  {
+   "segment": [
+    344.0,
+    347.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.016432
+  },
+  {
+   "segment": [
+    206.0,
+    211.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.016423
+  },
+  {
+   "segment": [
+    206.0,
+    211.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.016423
+  },
+  {
+   "segment": [
+    359.0,
+    363.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.016419
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.016304
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.016286
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.016286
+  },
+  {
+   "segment": [
+    33.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.016241
+  },
+  {
+   "segment": [
+    358.0,
+    362.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.016218
+  },
+  {
+   "segment": [
+    168.0,
+    173.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.016186
+  },
+  {
+   "segment": [
+    252.0,
+    255.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.016178
+  },
+  {
+   "segment": [
+    45.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.016174
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.016172
+  },
+  {
+   "segment": [
+    336.0,
+    338.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.016164
+  },
+  {
+   "segment": [
+    160.0,
+    166.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.016126
+  },
+  {
+   "segment": [
+    291.0,
+    293.0
+   ],
+   "verb": "take",
+   "noun": "meat",
+   "score": 0.016114
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.016018
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.015971
+  },
+  {
+   "segment": [
+    309.0,
+    311.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.01592
+  },
+  {
+   "segment": [
+    309.0,
+    311.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.01592
+  },
+  {
+   "segment": [
+    145.0,
+    148.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.015904
+  },
+  {
+   "segment": [
+    322.0,
+    325.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.015892
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.01587
+  },
+  {
+   "segment": [
+    272.0,
+    274.0
+   ],
+   "verb": "wash",
+   "noun": "guard:hand",
+   "score": 0.015848
+  },
+  {
+   "segment": [
+    254.0,
+    256.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.015752
+  },
+  {
+   "segment": [
+    348.0,
+    353.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.015598
+  },
+  {
+   "segment": [
+    190.0,
+    193.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.015566
+  },
+  {
+   "segment": [
+    173.0,
+    176.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.015552
+  },
+  {
+   "segment": [
+    286.0,
+    289.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.015522
+  },
+  {
+   "segment": [
+    68.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.015496
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.015496
+  },
+  {
+   "segment": [
+    225.0,
+    227.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.015485
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "smell",
+   "noun": "face",
+   "score": 0.015446
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "rub",
+   "noun": "face",
+   "score": 0.015446
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.015407
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.015403
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.015375
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.015317
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.015309
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.015309
+  },
+  {
+   "segment": [
+    288.0,
+    290.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.01529
+  },
+  {
+   "segment": [
+    354.0,
+    359.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.015284
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.015284
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.015284
+  },
+  {
+   "segment": [
+    354.0,
+    359.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.015283
+  },
+  {
+   "segment": [
+    332.0,
+    335.0
+   ],
+   "verb": "break",
+   "noun": "chicken",
+   "score": 0.01525
+  },
+  {
+   "segment": [
+    370.0,
+    373.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.015249
+  },
+  {
+   "segment": [
+    262.0,
+    264.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.015245
+  },
+  {
+   "segment": [
+    260.0,
+    262.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.015224
+  },
+  {
+   "segment": [
+    194.0,
+    197.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.015179
+  },
+  {
+   "segment": [
+    194.0,
+    197.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.015179
+  },
+  {
+   "segment": [
+    287.0,
+    289.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.015163
+  },
+  {
+   "segment": [
+    305.0,
+    308.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.01516
+  },
+  {
+   "segment": [
+    261.0,
+    263.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.015147
+  },
+  {
+   "segment": [
+    261.0,
+    263.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.015147
+  },
+  {
+   "segment": [
+    299.0,
+    302.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.015116
+  },
+  {
+   "segment": [
+    239.0,
+    241.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.015076
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.015074
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.015046
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.01502
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.01499
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.01493
+  },
+  {
+   "segment": [
+    183.0,
+    189.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.014907
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.014898
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.014849
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.014849
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.014837
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.014837
+  },
+  {
+   "segment": [
+    284.0,
+    286.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.014812
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.014796
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.014796
+  },
+  {
+   "segment": [
+    323.0,
+    325.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.014783
+  },
+  {
+   "segment": [
+    250.0,
+    252.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.01477
+  },
+  {
+   "segment": [
+    250.0,
+    252.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.01477
+  },
+  {
+   "segment": [
+    331.0,
+    334.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.014734
+  },
+  {
+   "segment": [
+    305.0,
+    308.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.014718
+  },
+  {
+   "segment": [
+    305.0,
+    308.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.014718
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.014713
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.014708
+  },
+  {
+   "segment": [
+    336.0,
+    340.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.014696
+  },
+  {
+   "segment": [
+    269.0,
+    272.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.014689
+  },
+  {
+   "segment": [
+    269.0,
+    272.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.014689
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.014667
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "take",
+   "noun": "flour",
+   "score": 0.014644
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.014641
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.014641
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.01464
+  },
+  {
+   "segment": [
+    135.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.014638
+  },
+  {
+   "segment": [
+    330.0,
+    333.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.014586
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.014584
+  },
+  {
+   "segment": [
+    368.0,
+    370.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.014582
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.014564
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.014537
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.014526
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.014477
+  },
+  {
+   "segment": [
+    238.0,
+    240.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.014429
+  },
+  {
+   "segment": [
+    238.0,
+    240.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.014429
+  },
+  {
+   "segment": [
+    154.0,
+    158.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.014365
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.014354
+  },
+  {
+   "segment": [
+    270.0,
+    272.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.014324
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.014322
+  },
+  {
+   "segment": [
+    183.0,
+    186.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.01432
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.014295
+  },
+  {
+   "segment": [
+    248.0,
+    250.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.014288
+  },
+  {
+   "segment": [
+    219.0,
+    222.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.014285
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.014254
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.014254
+  },
+  {
+   "segment": [
+    48.0,
+    53.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.014245
+  },
+  {
+   "segment": [
+    336.0,
+    338.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.014244
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.014242
+  },
+  {
+   "segment": [
+    277.0,
+    280.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.014177
+  },
+  {
+   "segment": [
+    168.0,
+    171.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.014162
+  },
+  {
+   "segment": [
+    232.0,
+    235.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.01408
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "pour",
+   "noun": "flour",
+   "score": 0.014077
+  },
+  {
+   "segment": [
+    232.0,
+    236.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.014073
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.014068
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.014017
+  },
+  {
+   "segment": [
+    341.0,
+    344.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.013973
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.013949
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.013946
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.013939
+  },
+  {
+   "segment": [
+    328.0,
+    332.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.01393
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.013916
+  },
+  {
+   "segment": [
+    28.0,
+    33.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.013913
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.013885
+  },
+  {
+   "segment": [
+    265.0,
+    267.0
+   ],
+   "verb": "throw",
+   "noun": "pear",
+   "score": 0.013869
+  },
+  {
+   "segment": [
+    324.0,
+    328.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.013858
+  },
+  {
+   "segment": [
+    284.0,
+    287.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.013815
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.013801
+  },
+  {
+   "segment": [
+    362.0,
+    364.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.013798
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.013767
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.013753
+  },
+  {
+   "segment": [
+    246.0,
+    249.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.013741
+  },
+  {
+   "segment": [
+    328.0,
+    330.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.013725
+  },
+  {
+   "segment": [
+    30.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.013714
+  },
+  {
+   "segment": [
+    30.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.013714
+  },
+  {
+   "segment": [
+    104.0,
+    107.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.013694
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.013662
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.013662
+  },
+  {
+   "segment": [
+    51.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.01364
+  },
+  {
+   "segment": [
+    51.0,
+    54.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.01364
+  },
+  {
+   "segment": [
+    190.0,
+    193.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.013624
+  },
+  {
+   "segment": [
+    343.0,
+    345.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013618
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.013584
+  },
+  {
+   "segment": [
+    346.0,
+    348.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.013584
+  },
+  {
+   "segment": [
+    257.0,
+    260.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.01358
+  },
+  {
+   "segment": [
+    257.0,
+    260.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.01358
+  },
+  {
+   "segment": [
+    119.0,
+    122.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.013572
+  },
+  {
+   "segment": [
+    214.0,
+    217.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013568
+  },
+  {
+   "segment": [
+    267.0,
+    271.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.013566
+  },
+  {
+   "segment": [
+    266.0,
+    268.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.013561
+  },
+  {
+   "segment": [
+    264.0,
+    266.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.013492
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.013484
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.013484
+  },
+  {
+   "segment": [
+    268.0,
+    271.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013447
+  },
+  {
+   "segment": [
+    344.0,
+    347.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.013445
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.013392
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.013377
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.013377
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.013355
+  },
+  {
+   "segment": [
+    358.0,
+    360.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.013298
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.013294
+  },
+  {
+   "segment": [
+    265.0,
+    267.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.013265
+  },
+  {
+   "segment": [
+    265.0,
+    267.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.013265
+  },
+  {
+   "segment": [
+    275.0,
+    277.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.013261
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.013242
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013234
+  },
+  {
+   "segment": [
+    76.0,
+    79.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.013234
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.013232
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.01322
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.01322
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.013164
+  },
+  {
+   "segment": [
+    329.0,
+    331.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.013136
+  },
+  {
+   "segment": [
+    315.0,
+    318.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.013111
+  },
+  {
+   "segment": [
+    361.0,
+    364.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.01311
+  },
+  {
+   "segment": [
+    346.0,
+    349.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.013065
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.01306
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.013024
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.013022
+  },
+  {
+   "segment": [
+    278.0,
+    280.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.013002
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.012997
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "cut",
+   "noun": "bean:green",
+   "score": 0.012994
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.012988
+  },
+  {
+   "segment": [
+    295.0,
+    300.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.012986
+  },
+  {
+   "segment": [
+    285.0,
+    287.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.012962
+  },
+  {
+   "segment": [
+    216.0,
+    220.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.012956
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.012944
+  },
+  {
+   "segment": [
+    337.0,
+    341.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.012932
+  },
+  {
+   "segment": [
+    234.0,
+    236.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.012919
+  },
+  {
+   "segment": [
+    204.0,
+    207.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.012917
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "mix",
+   "noun": "coconut",
+   "score": 0.012902
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.012901
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.012898
+  },
+  {
+   "segment": [
+    307.0,
+    309.0
+   ],
+   "verb": "scoop",
+   "noun": "kiwi",
+   "score": 0.012897
+  },
+  {
+   "segment": [
+    302.0,
+    304.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.012891
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.012854
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.012834
+  },
+  {
+   "segment": [
+    364.0,
+    366.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.01283
+  },
+  {
+   "segment": [
+    310.0,
+    315.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.012792
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.012778
+  },
+  {
+   "segment": [
+    81.0,
+    84.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.012761
+  },
+  {
+   "segment": [
+    81.0,
+    84.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.012761
+  },
+  {
+   "segment": [
+    299.0,
+    302.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.012756
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.012749
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "smell",
+   "noun": "face",
+   "score": 0.01271
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "rub",
+   "noun": "face",
+   "score": 0.01271
+  },
+  {
+   "segment": [
+    73.0,
+    76.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.012704
+  },
+  {
+   "segment": [
+    219.0,
+    222.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.012699
+  },
+  {
+   "segment": [
+    68.0,
+    71.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.012683
+  },
+  {
+   "segment": [
+    195.0,
+    198.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.012655
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.01265
+  },
+  {
+   "segment": [
+    369.0,
+    372.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.01262
+  },
+  {
+   "segment": [
+    308.0,
+    311.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.012616
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.012609
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.012609
+  },
+  {
+   "segment": [
+    203.0,
+    207.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.01257
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.012556
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.012556
+  },
+  {
+   "segment": [
+    333.0,
+    335.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.012515
+  },
+  {
+   "segment": [
+    354.0,
+    359.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.012506
+  },
+  {
+   "segment": [
+    276.0,
+    278.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.012485
+  },
+  {
+   "segment": [
+    246.0,
+    248.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.01247
+  },
+  {
+   "segment": [
+    202.0,
+    205.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.012463
+  },
+  {
+   "segment": [
+    202.0,
+    205.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.012463
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.012461
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.012448
+  },
+  {
+   "segment": [
+    286.0,
+    289.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.012419
+  },
+  {
+   "segment": [
+    123.0,
+    126.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.012369
+  },
+  {
+   "segment": [
+    28.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.012368
+  },
+  {
+   "segment": [
+    337.0,
+    340.0
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.012347
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.012344
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.012344
+  },
+  {
+   "segment": [
+    110.0,
+    113.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.012342
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.012339
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.012255
+  },
+  {
+   "segment": [
+    345.0,
+    347.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.012247
+  },
+  {
+   "segment": [
+    256.0,
+    258.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.012236
+  },
+  {
+   "segment": [
+    53.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.012231
+  },
+  {
+   "segment": [
+    341.0,
+    344.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.01223
+  },
+  {
+   "segment": [
+    183.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.012197
+  },
+  {
+   "segment": [
+    262.0,
+    264.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.012197
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.012184
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.012184
+  },
+  {
+   "segment": [
+    135.0,
+    142.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.012176
+  },
+  {
+   "segment": [
+    147.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.012137
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.012135
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "pour",
+   "noun": "flour",
+   "score": 0.012118
+  },
+  {
+   "segment": [
+    248.0,
+    250.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.012097
+  },
+  {
+   "segment": [
+    299.0,
+    302.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.012093
+  },
+  {
+   "segment": [
+    221.0,
+    224.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.012092
+  },
+  {
+   "segment": [
+    293.0,
+    295.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.012079
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.012074
+  },
+  {
+   "segment": [
+    197.0,
+    201.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.012055
+  },
+  {
+   "segment": [
+    197.0,
+    201.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.012055
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.012004
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.012004
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.011966
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.011966
+  },
+  {
+   "segment": [
+    170.0,
+    173.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.011957
+  },
+  {
+   "segment": [
+    368.0,
+    370.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.011931
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.011931
+  },
+  {
+   "segment": [
+    291.0,
+    293.0
+   ],
+   "verb": "put",
+   "noun": "meat",
+   "score": 0.011926
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011919
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.011916
+  },
+  {
+   "segment": [
+    260.0,
+    262.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.011914
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.011911
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.011886
+  },
+  {
+   "segment": [
+    270.0,
+    273.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.011872
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.011867
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.011845
+  },
+  {
+   "segment": [
+    136.0,
+    139.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.011837
+  },
+  {
+   "segment": [
+    220.0,
+    222.0
+   ],
+   "verb": "take",
+   "noun": "avocado",
+   "score": 0.011832
+  },
+  {
+   "segment": [
+    82.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.011828
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.011804
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.011803
+  },
+  {
+   "segment": [
+    234.0,
+    237.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.011801
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.011776
+  },
+  {
+   "segment": [
+    161.0,
+    164.0
+   ],
+   "verb": "take",
+   "noun": "salt",
+   "score": 0.011776
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011771
+  },
+  {
+   "segment": [
+    288.0,
+    291.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.011763
+  },
+  {
+   "segment": [
+    75.0,
+    78.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.011745
+  },
+  {
+   "segment": [
+    75.0,
+    78.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.011745
+  },
+  {
+   "segment": [
+    310.0,
+    312.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.011722
+  },
+  {
+   "segment": [
+    301.0,
+    304.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.011652
+  },
+  {
+   "segment": [
+    225.0,
+    228.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.011571
+  },
+  {
+   "segment": [
+    251.0,
+    254.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.011524
+  },
+  {
+   "segment": [
+    286.0,
+    288.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.011514
+  },
+  {
+   "segment": [
+    286.0,
+    288.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.011514
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "open",
+   "noun": "ladder",
+   "score": 0.011512
+  },
+  {
+   "segment": [
+    252.0,
+    254.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.011503
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.011488
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.011467
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011459
+  },
+  {
+   "segment": [
+    183.0,
+    186.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011457
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.011457
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.011434
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.011414
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.011411
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.011402
+  },
+  {
+   "segment": [
+    336.0,
+    338.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011396
+  },
+  {
+   "segment": [
+    94.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.011387
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.011387
+  },
+  {
+   "segment": [
+    315.0,
+    317.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.011354
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.011341
+  },
+  {
+   "segment": [
+    339.0,
+    341.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.011319
+  },
+  {
+   "segment": [
+    346.0,
+    348.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.011318
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.011222
+  },
+  {
+   "segment": [
+    331.0,
+    334.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.011175
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.01117
+  },
+  {
+   "segment": [
+    258.0,
+    261.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.011168
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.011162
+  },
+  {
+   "segment": [
+    212.0,
+    214.0
+   ],
+   "verb": "take",
+   "noun": "jug",
+   "score": 0.011149
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.011147
+  },
+  {
+   "segment": [
+    267.0,
+    271.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.0111
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.011099
+  },
+  {
+   "segment": [
+    324.0,
+    328.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.011089
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.011043
+  },
+  {
+   "segment": [
+    264.0,
+    266.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.01104
+  },
+  {
+   "segment": [
+    371.0,
+    373.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.01101
+  },
+  {
+   "segment": [
+    317.0,
+    319.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010992
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.010974
+  },
+  {
+   "segment": [
+    343.0,
+    345.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010895
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.01089
+  },
+  {
+   "segment": [
+    334.0,
+    336.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.010878
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.010874
+  },
+  {
+   "segment": [
+    288.0,
+    290.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.01087
+  },
+  {
+   "segment": [
+    214.0,
+    217.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010855
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.010844
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.010844
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010827
+  },
+  {
+   "segment": [
+    93.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.01079
+  },
+  {
+   "segment": [
+    327.0,
+    329.0
+   ],
+   "verb": "take",
+   "noun": "holder",
+   "score": 0.010785
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.010774
+  },
+  {
+   "segment": [
+    234.0,
+    236.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.010764
+  },
+  {
+   "segment": [
+    268.0,
+    271.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010758
+  },
+  {
+   "segment": [
+    124.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.010727
+  },
+  {
+   "segment": [
+    209.0,
+    213.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.010721
+  },
+  {
+   "segment": [
+    239.0,
+    241.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.010718
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.010716
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.01071
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.010703
+  },
+  {
+   "segment": [
+    74.0,
+    77.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.010695
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.010654
+  },
+  {
+   "segment": [
+    296.0,
+    299.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.010653
+  },
+  {
+   "segment": [
+    296.0,
+    299.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.010653
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "sharpen",
+   "noun": "whetstone",
+   "score": 0.010644
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "take",
+   "noun": "brush",
+   "score": 0.01063
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.01062
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.010615
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.01061
+  },
+  {
+   "segment": [
+    322.0,
+    325.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010595
+  },
+  {
+   "segment": [
+    283.0,
+    285.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.010591
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010588
+  },
+  {
+   "segment": [
+    337.0,
+    341.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010581
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010556
+  },
+  {
+   "segment": [
+    251.0,
+    253.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.010526
+  },
+  {
+   "segment": [
+    176.0,
+    178.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.010522
+  },
+  {
+   "segment": [
+    276.0,
+    278.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.010475
+  },
+  {
+   "segment": [
+    348.0,
+    351.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.010459
+  },
+  {
+   "segment": [
+    125.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.010424
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.010388
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.010376
+  },
+  {
+   "segment": [
+    285.0,
+    287.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.01037
+  },
+  {
+   "segment": [
+    290.0,
+    292.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.010368
+  },
+  {
+   "segment": [
+    220.0,
+    222.0
+   ],
+   "verb": "cut",
+   "noun": "avocado",
+   "score": 0.010353
+  },
+  {
+   "segment": [
+    350.0,
+    352.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.010348
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.010336
+  },
+  {
+   "segment": [
+    73.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.01033
+  },
+  {
+   "segment": [
+    302.0,
+    304.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010314
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.010309
+  },
+  {
+   "segment": [
+    363.0,
+    365.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.010289
+  },
+  {
+   "segment": [
+    203.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010285
+  },
+  {
+   "segment": [
+    349.0,
+    351.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.010276
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.010207
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.010207
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.0102
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.010196
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.010196
+  },
+  {
+   "segment": [
+    354.0,
+    359.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010189
+  },
+  {
+   "segment": [
+    270.0,
+    272.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.010183
+  },
+  {
+   "segment": [
+    370.0,
+    373.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010166
+  },
+  {
+   "segment": [
+    351.0,
+    354.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.010134
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.01013
+  },
+  {
+   "segment": [
+    255.0,
+    257.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.010125
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010121
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.010092
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.010092
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.010075
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.010075
+  },
+  {
+   "segment": [
+    327.0,
+    329.0
+   ],
+   "verb": "put",
+   "noun": "holder",
+   "score": 0.010064
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.010062
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.010062
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.010027
+  },
+  {
+   "segment": [
+    104.0,
+    107.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.010006
+  },
+  {
+   "segment": [
+    343.0,
+    345.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.009991
+  },
+  {
+   "segment": [
+    343.0,
+    345.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.009991
+  },
+  {
+   "segment": [
+    276.0,
+    278.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.00999
+  },
+  {
+   "segment": [
+    293.0,
+    296.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.009983
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.009957
+  },
+  {
+   "segment": [
+    296.0,
+    298.0
+   ],
+   "verb": "take",
+   "noun": "melon",
+   "score": 0.009955
+  },
+  {
+   "segment": [
+    296.0,
+    298.0
+   ],
+   "verb": "cut",
+   "noun": "melon",
+   "score": 0.009955
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.009943
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.009909
+  },
+  {
+   "segment": [
+    293.0,
+    295.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.009883
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "take",
+   "noun": "pin:rolling",
+   "score": 0.009878
+  },
+  {
+   "segment": [
+    365.0,
+    368.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.009859
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.009856
+  },
+  {
+   "segment": [
+    107.0,
+    116.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.009836
+  },
+  {
+   "segment": [
+    161.0,
+    164.0
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.009827
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.009801
+  },
+  {
+   "segment": [
+    345.0,
+    347.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.009798
+  },
+  {
+   "segment": [
+    307.0,
+    310.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.009794
+  },
+  {
+   "segment": [
+    209.0,
+    213.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.009793
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.00975
+  },
+  {
+   "segment": [
+    250.0,
+    252.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.009747
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.009725
+  },
+  {
+   "segment": [
+    266.0,
+    268.0
+   ],
+   "verb": "take",
+   "noun": "meat",
+   "score": 0.009719
+  },
+  {
+   "segment": [
+    147.0,
+    151.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.00971
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.009702
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.009702
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.009674
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.009671
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.00965
+  },
+  {
+   "segment": [
+    371.0,
+    373.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.009633
+  },
+  {
+   "segment": [
+    292.0,
+    294.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.009613
+  },
+  {
+   "segment": [
+    292.0,
+    294.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.009613
+  },
+  {
+   "segment": [
+    303.0,
+    306.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.009606
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.009589
+  },
+  {
+   "segment": [
+    303.0,
+    306.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.009574
+  },
+  {
+   "segment": [
+    247.0,
+    249.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.00955
+  },
+  {
+   "segment": [
+    261.0,
+    263.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.009549
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.009547
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.009501
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.009499
+  },
+  {
+   "segment": [
+    48.0,
+    53.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.009497
+  },
+  {
+   "segment": [
+    315.0,
+    318.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.009483
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.009462
+  },
+  {
+   "segment": [
+    254.0,
+    256.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.009451
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.009444
+  },
+  {
+   "segment": [
+    128.0,
+    131.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.009439
+  },
+  {
+   "segment": [
+    182.0,
+    185.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.009438
+  },
+  {
+   "segment": [
+    312.0,
+    314.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.009436
+  },
+  {
+   "segment": [
+    312.0,
+    314.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.009436
+  },
+  {
+   "segment": [
+    339.0,
+    341.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.009424
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.009383
+  },
+  {
+   "segment": [
+    297.0,
+    299.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.009367
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.009356
+  },
+  {
+   "segment": [
+    310.0,
+    312.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.009333
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.009319
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.009319
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.009305
+  },
+  {
+   "segment": [
+    274.0,
+    276.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.009305
+  },
+  {
+   "segment": [
+    82.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.009257
+  },
+  {
+   "segment": [
+    273.0,
+    275.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.009253
+  },
+  {
+   "segment": [
+    273.0,
+    275.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.009253
+  },
+  {
+   "segment": [
+    340.0,
+    342.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.009249
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.009248
+  },
+  {
+   "segment": [
+    278.0,
+    280.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.009244
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.00924
+  },
+  {
+   "segment": [
+    342.0,
+    344.0
+   ],
+   "verb": "take",
+   "noun": "salmon",
+   "score": 0.009234
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.009234
+  },
+  {
+   "segment": [
+    251.0,
+    254.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.00922
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.009215
+  },
+  {
+   "segment": [
+    337.0,
+    340.0
+   ],
+   "verb": "put",
+   "noun": "towel",
+   "score": 0.009196
+  },
+  {
+   "segment": [
+    361.0,
+    363.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.009176
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.009166
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.009166
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.009152
+  },
+  {
+   "segment": [
+    328.0,
+    330.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.00915
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "lentil",
+   "score": 0.009102
+  },
+  {
+   "segment": [
+    324.0,
+    326.0
+   ],
+   "verb": "take",
+   "noun": "stalk",
+   "score": 0.009045
+  },
+  {
+   "segment": [
+    324.0,
+    326.0
+   ],
+   "verb": "remove",
+   "noun": "stalk",
+   "score": 0.009045
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.00902
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "whetstone",
+   "score": 0.009008
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.008976
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.008976
+  },
+  {
+   "segment": [
+    274.0,
+    276.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.00897
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.008938
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.008932
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.008919
+  },
+  {
+   "segment": [
+    367.0,
+    371.0
+   ],
+   "verb": "open",
+   "noun": "ladder",
+   "score": 0.008907
+  },
+  {
+   "segment": [
+    295.0,
+    297.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.008875
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.008865
+  },
+  {
+   "segment": [
+    246.0,
+    248.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.008865
+  },
+  {
+   "segment": [
+    115.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.008858
+  },
+  {
+   "segment": [
+    76.0,
+    79.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.008823
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.008806
+  },
+  {
+   "segment": [
+    257.0,
+    259.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.008785
+  },
+  {
+   "segment": [
+    135.0,
+    138.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.008783
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.008749
+  },
+  {
+   "segment": [
+    361.0,
+    364.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.00874
+  },
+  {
+   "segment": [
+    261.0,
+    263.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.008707
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.008706
+  },
+  {
+   "segment": [
+    334.0,
+    337.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.008657
+  },
+  {
+   "segment": [
+    363.0,
+    366.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.008653
+  },
+  {
+   "segment": [
+    93.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.008632
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.008631
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.00863
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.008625
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.008613
+  },
+  {
+   "segment": [
+    248.0,
+    250.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.0086
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.00857
+  },
+  {
+   "segment": [
+    359.0,
+    363.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.008567
+  },
+  {
+   "segment": [
+    96.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "egg",
+   "score": 0.008551
+  },
+  {
+   "segment": [
+    298.0,
+    300.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.008549
+  },
+  {
+   "segment": [
+    268.0,
+    270.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.008548
+  },
+  {
+   "segment": [
+    268.0,
+    270.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.008548
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "phone",
+   "score": 0.008546
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "phone",
+   "score": 0.008546
+  },
+  {
+   "segment": [
+    212.0,
+    214.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.008537
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.008523
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.008523
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.008519
+  },
+  {
+   "segment": [
+    344.0,
+    347.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.008493
+  },
+  {
+   "segment": [
+    290.0,
+    292.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.008484
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.008483
+  },
+  {
+   "segment": [
+    284.0,
+    286.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.008468
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "open",
+   "noun": "ladder",
+   "score": 0.008454
+  },
+  {
+   "segment": [
+    251.0,
+    253.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.008423
+  },
+  {
+   "segment": [
+    158.0,
+    161.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.008421
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.00842
+  },
+  {
+   "segment": [
+    308.0,
+    311.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.008411
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.008411
+  },
+  {
+   "segment": [
+    325.0,
+    327.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.008403
+  },
+  {
+   "segment": [
+    276.0,
+    278.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.008381
+  },
+  {
+   "segment": [
+    348.0,
+    351.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.008368
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.008366
+  },
+  {
+   "segment": [
+    317.0,
+    321.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.008365
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.008364
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.008356
+  },
+  {
+   "segment": [
+    262.0,
+    265.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.00834
+  },
+  {
+   "segment": [
+    262.0,
+    265.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.00834
+  },
+  {
+   "segment": [
+    125.0,
+    129.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.00834
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.008325
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.008325
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.00831
+  },
+  {
+   "segment": [
+    255.0,
+    257.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.008285
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.00827
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.008263
+  },
+  {
+   "segment": [
+    363.0,
+    365.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.008233
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.008232
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "towel",
+   "score": 0.008225
+  },
+  {
+   "segment": [
+    349.0,
+    351.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.008223
+  },
+  {
+   "segment": [
+    285.0,
+    287.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.008205
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.008184
+  },
+  {
+   "segment": [
+    335.0,
+    337.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.008172
+  },
+  {
+   "segment": [
+    96.0,
+    99.0
+   ],
+   "verb": "mix",
+   "noun": "egg",
+   "score": 0.008143
+  },
+  {
+   "segment": [
+    308.0,
+    311.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.008137
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.008136
+  },
+  {
+   "segment": [
+    181.0,
+    184.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.00812
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.008112
+  },
+  {
+   "segment": [
+    168.0,
+    173.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.008093
+  },
+  {
+   "segment": [
+    284.0,
+    286.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.008078
+  },
+  {
+   "segment": [
+    95.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.008072
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.008022
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.00802
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.00801
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.007977
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.007977
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.007976
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.007958
+  },
+  {
+   "segment": [
+    95.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.007943
+  },
+  {
+   "segment": [
+    271.0,
+    274.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.007928
+  },
+  {
+   "segment": [
+    270.0,
+    273.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007915
+  },
+  {
+   "segment": [
+    310.0,
+    312.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.007896
+  },
+  {
+   "segment": [
+    350.0,
+    352.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.007885
+  },
+  {
+   "segment": [
+    350.0,
+    352.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.007885
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.00788
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.007864
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "put",
+   "noun": "pepper",
+   "score": 0.007845
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.007843
+  },
+  {
+   "segment": [
+    251.0,
+    253.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.00784
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.007837
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.007836
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.007834
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.007829
+  },
+  {
+   "segment": [
+    303.0,
+    305.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.007825
+  },
+  {
+   "segment": [
+    126.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "flour",
+   "score": 0.007818
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.007796
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.007789
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "put",
+   "noun": "brush",
+   "score": 0.007768
+  },
+  {
+   "segment": [
+    247.0,
+    249.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.007765
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "paste",
+   "score": 0.007762
+  },
+  {
+   "segment": [
+    258.0,
+    260.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.007751
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.00773
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "pour",
+   "noun": "lentil",
+   "score": 0.0077
+  },
+  {
+   "segment": [
+    303.0,
+    306.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.007684
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.007677
+  },
+  {
+   "segment": [
+    325.0,
+    327.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.007676
+  },
+  {
+   "segment": [
+    128.0,
+    131.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.007675
+  },
+  {
+   "segment": [
+    252.0,
+    254.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007669
+  },
+  {
+   "segment": [
+    339.0,
+    341.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.007663
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007659
+  },
+  {
+   "segment": [
+    347.0,
+    349.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.007618
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.007616
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.007614
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.007598
+  },
+  {
+   "segment": [
+    287.0,
+    289.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.007582
+  },
+  {
+   "segment": [
+    363.0,
+    366.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.007574
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.00756
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.00756
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.00755
+  },
+  {
+   "segment": [
+    344.0,
+    347.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.00755
+  },
+  {
+   "segment": [
+    298.0,
+    300.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.007537
+  },
+  {
+   "segment": [
+    283.0,
+    285.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.007529
+  },
+  {
+   "segment": [
+    333.0,
+    335.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.007509
+  },
+  {
+   "segment": [
+    297.0,
+    299.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.007495
+  },
+  {
+   "segment": [
+    370.0,
+    372.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.007476
+  },
+  {
+   "segment": [
+    370.0,
+    372.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.007476
+  },
+  {
+   "segment": [
+    263.0,
+    265.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.007429
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.007405
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.007399
+  },
+  {
+   "segment": [
+    341.0,
+    343.0
+   ],
+   "verb": "take",
+   "noun": "meat",
+   "score": 0.007397
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.007376
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.007367
+  },
+  {
+   "segment": [
+    274.0,
+    276.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.007366
+  },
+  {
+   "segment": [
+    66.0,
+    69.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.007341
+  },
+  {
+   "segment": [
+    361.0,
+    363.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.007341
+  },
+  {
+   "segment": [
+    362.0,
+    364.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.007318
+  },
+  {
+   "segment": [
+    170.0,
+    173.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.007306
+  },
+  {
+   "segment": [
+    102.0,
+    105.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.007301
+  },
+  {
+   "segment": [
+    333.0,
+    336.0
+   ],
+   "verb": "take",
+   "noun": "meat",
+   "score": 0.007301
+  },
+  {
+   "segment": [
+    216.0,
+    218.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.007292
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.007286
+  },
+  {
+   "segment": [
+    106.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.007284
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.00727
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.00727
+  },
+  {
+   "segment": [
+    347.0,
+    349.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.007267
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.007249
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.007249
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007249
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.007233
+  },
+  {
+   "segment": [
+    181.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.007218
+  },
+  {
+   "segment": [
+    71.0,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "backpack",
+   "score": 0.007217
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.007215
+  },
+  {
+   "segment": [
+    284.0,
+    287.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.007208
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.007201
+  },
+  {
+   "segment": [
+    266.0,
+    268.0
+   ],
+   "verb": "put",
+   "noun": "meat",
+   "score": 0.007194
+  },
+  {
+   "segment": [
+    348.0,
+    350.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.007193
+  },
+  {
+   "segment": [
+    348.0,
+    350.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.007193
+  },
+  {
+   "segment": [
+    288.0,
+    291.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.007187
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.007185
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.007182
+  },
+  {
+   "segment": [
+    311.0,
+    313.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.007178
+  },
+  {
+   "segment": [
+    246.0,
+    249.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.007169
+  },
+  {
+   "segment": [
+    307.0,
+    309.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.007165
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "take",
+   "noun": "mango",
+   "score": 0.007157
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.007117
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007103
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "bean:green",
+   "score": 0.007084
+  },
+  {
+   "segment": [
+    334.0,
+    337.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.007039
+  },
+  {
+   "segment": [
+    257.0,
+    259.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.007028
+  },
+  {
+   "segment": [
+    176.0,
+    178.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.007015
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.007011
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.006999
+  },
+  {
+   "segment": [
+    94.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.006957
+  },
+  {
+   "segment": [
+    315.0,
+    318.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.006929
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.006924
+  },
+  {
+   "segment": [
+    182.0,
+    185.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.006896
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.006837
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.006795
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.006765
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.006761
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.006753
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.006753
+  },
+  {
+   "segment": [
+    204.0,
+    207.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006739
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.00673
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.006717
+  },
+  {
+   "segment": [
+    339.0,
+    341.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.006712
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006707
+  },
+  {
+   "segment": [
+    364.0,
+    366.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006694
+  },
+  {
+   "segment": [
+    310.0,
+    315.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006675
+  },
+  {
+   "segment": [
+    216.0,
+    218.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.006661
+  },
+  {
+   "segment": [
+    293.0,
+    296.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.006655
+  },
+  {
+   "segment": [
+    225.0,
+    228.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.00665
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.006648
+  },
+  {
+   "segment": [
+    334.0,
+    336.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.006646
+  },
+  {
+   "segment": [
+    247.0,
+    249.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.00662
+  },
+  {
+   "segment": [
+    247.0,
+    249.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.00662
+  },
+  {
+   "segment": [
+    304.0,
+    307.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.006605
+  },
+  {
+   "segment": [
+    195.0,
+    198.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006603
+  },
+  {
+   "segment": [
+    249.0,
+    252.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.006596
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.00657
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.006545
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.006538
+  },
+  {
+   "segment": [
+    59.0,
+    62.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.006511
+  },
+  {
+   "segment": [
+    308.0,
+    311.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.00651
+  },
+  {
+   "segment": [
+    313.0,
+    315.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.006508
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "pan:dust",
+   "score": 0.006501
+  },
+  {
+   "segment": [
+    126.0,
+    129.0
+   ],
+   "verb": "pour",
+   "noun": "flour",
+   "score": 0.006469
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.006466
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.006466
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "avocado",
+   "score": 0.006455
+  },
+  {
+   "segment": [
+    123.0,
+    126.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006454
+  },
+  {
+   "segment": [
+    124.0,
+    127.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.006436
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.006388
+  },
+  {
+   "segment": [
+    175.0,
+    178.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.006386
+  },
+  {
+   "segment": [
+    299.0,
+    302.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.006378
+  },
+  {
+   "segment": [
+    259.0,
+    261.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.006377
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.00637
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.006333
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.006332
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.006286
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.006286
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.006284
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.006276
+  },
+  {
+   "segment": [
+    251.0,
+    253.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.006272
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "put",
+   "noun": "mango",
+   "score": 0.006262
+  },
+  {
+   "segment": [
+    199.0,
+    204.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.006258
+  },
+  {
+   "segment": [
+    258.0,
+    260.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.006201
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.006189
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "insert",
+   "noun": "pork",
+   "score": 0.006145
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.006133
+  },
+  {
+   "segment": [
+    62.0,
+    65.0
+   ],
+   "verb": "open",
+   "noun": "backpack",
+   "score": 0.006118
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.006106
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.006102
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.006101
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.006089
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.006046
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.006043
+  },
+  {
+   "segment": [
+    225.0,
+    228.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.006037
+  },
+  {
+   "segment": [
+    238.0,
+    241.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.006007
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005989
+  },
+  {
+   "segment": [
+    274.0,
+    276.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.00598
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.005967
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "ladder",
+   "score": 0.00596
+  },
+  {
+   "segment": [
+    245.0,
+    248.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005945
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.005924
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.00591
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.005909
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.005875
+  },
+  {
+   "segment": [
+    295.0,
+    297.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.005858
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.005854
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.005854
+  },
+  {
+   "segment": [
+    336.0,
+    338.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.005836
+  },
+  {
+   "segment": [
+    311.0,
+    313.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.005836
+  },
+  {
+   "segment": [
+    285.0,
+    287.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.005833
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.005791
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.005787
+  },
+  {
+   "segment": [
+    154.0,
+    159.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.005775
+  },
+  {
+   "segment": [
+    260.0,
+    262.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.005748
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.005737
+  },
+  {
+   "segment": [
+    117.0,
+    120.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.005728
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.005701
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.005699
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "open",
+   "noun": "ladder",
+   "score": 0.005672
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "cut",
+   "noun": "avocado",
+   "score": 0.005648
+  },
+  {
+   "segment": [
+    275.0,
+    277.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.005642
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.005584
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.005576
+  },
+  {
+   "segment": [
+    340.0,
+    342.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.005549
+  },
+  {
+   "segment": [
+    341.0,
+    343.0
+   ],
+   "verb": "put",
+   "noun": "meat",
+   "score": 0.005475
+  },
+  {
+   "segment": [
+    333.0,
+    336.0
+   ],
+   "verb": "put",
+   "noun": "meat",
+   "score": 0.005404
+  },
+  {
+   "segment": [
+    350.0,
+    352.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.005399
+  },
+  {
+   "segment": [
+    282.0,
+    284.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.005379
+  },
+  {
+   "segment": [
+    313.0,
+    315.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.005325
+  },
+  {
+   "segment": [
+    295.0,
+    297.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.005325
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.00532
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005313
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "take",
+   "noun": "egg",
+   "score": 0.005236
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.005219
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.005213
+  },
+  {
+   "segment": [
+    311.0,
+    313.0
+   ],
+   "verb": "insert",
+   "noun": "rubber",
+   "score": 0.005212
+  },
+  {
+   "segment": [
+    311.0,
+    313.0
+   ],
+   "verb": "remove",
+   "noun": "rubber",
+   "score": 0.005212
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "empty",
+   "noun": "pan:dust",
+   "score": 0.005202
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.005199
+  },
+  {
+   "segment": [
+    193.0,
+    197.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.005177
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "scoop",
+   "noun": "paste",
+   "score": 0.005173
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.005154
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.005142
+  },
+  {
+   "segment": [
+    298.0,
+    300.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.005129
+  },
+  {
+   "segment": [
+    168.0,
+    171.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.005113
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.005087
+  },
+  {
+   "segment": [
+    335.0,
+    337.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005086
+  },
+  {
+   "segment": [
+    250.0,
+    252.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.005086
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "chicken",
+   "score": 0.00508
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.005068
+  },
+  {
+   "segment": [
+    273.0,
+    275.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005039
+  },
+  {
+   "segment": [
+    342.0,
+    344.0
+   ],
+   "verb": "insert",
+   "noun": "salmon",
+   "score": 0.005036
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.005031
+  },
+  {
+   "segment": [
+    249.0,
+    251.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.005014
+  },
+  {
+   "segment": [
+    249.0,
+    251.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.005014
+  },
+  {
+   "segment": [
+    303.0,
+    306.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004995
+  },
+  {
+   "segment": [
+    351.0,
+    354.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.004992
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "mix",
+   "noun": "egg",
+   "score": 0.004986
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004961
+  },
+  {
+   "segment": [
+    263.0,
+    265.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.004952
+  },
+  {
+   "segment": [
+    275.0,
+    277.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.004939
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004937
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.004926
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.00491
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.004858
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.004844
+  },
+  {
+   "segment": [
+    371.0,
+    373.0
+   ],
+   "verb": "open",
+   "noun": "backpack",
+   "score": 0.004791
+  },
+  {
+   "segment": [
+    303.0,
+    305.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.004781
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004767
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.004762
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.004753
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.004752
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.00473
+  },
+  {
+   "segment": [
+    237.0,
+    239.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.004723
+  },
+  {
+   "segment": [
+    237.0,
+    239.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.004723
+  },
+  {
+   "segment": [
+    295.0,
+    297.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.004687
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.004604
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.004555
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.004551
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.004536
+  },
+  {
+   "segment": [
+    119.0,
+    123.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004534
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "caper",
+   "score": 0.004485
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "wash",
+   "noun": "caper",
+   "score": 0.004485
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.004485
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "caper",
+   "score": 0.004463
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "wash",
+   "noun": "caper",
+   "score": 0.004463
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.004457
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.004404
+  },
+  {
+   "segment": [
+    314.0,
+    316.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.0044
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004393
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004393
+  },
+  {
+   "segment": [
+    56.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.004391
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "check",
+   "noun": "knob",
+   "score": 0.004388
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004365
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.004286
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004275
+  },
+  {
+   "segment": [
+    335.0,
+    337.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004264
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.004196
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.00418
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "open",
+   "noun": "backpack",
+   "score": 0.004168
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.004152
+  },
+  {
+   "segment": [
+    323.0,
+    325.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.004139
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.004133
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.004098
+  },
+  {
+   "segment": [
+    151.0,
+    154.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.004095
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.004064
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.004029
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003935
+  },
+  {
+   "segment": [
+    280.0,
+    282.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003902
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.003896
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.003896
+  },
+  {
+   "segment": [
+    248.0,
+    251.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003883
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.003854
+  },
+  {
+   "segment": [
+    277.0,
+    279.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.003833
+  },
+  {
+   "segment": [
+    318.0,
+    321.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003833
+  },
+  {
+   "segment": [
+    165.0,
+    169.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003795
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003789
+  },
+  {
+   "segment": [
+    340.0,
+    342.0
+   ],
+   "verb": "squeeze",
+   "noun": "lime",
+   "score": 0.003736
+  },
+  {
+   "segment": [
+    358.0,
+    360.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.003723
+  },
+  {
+   "segment": [
+    275.0,
+    277.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.003712
+  },
+  {
+   "segment": [
+    365.0,
+    367.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.003694
+  },
+  {
+   "segment": [
+    322.0,
+    324.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003588
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003582
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "pin:rolling",
+   "score": 0.003567
+  },
+  {
+   "segment": [
+    298.0,
+    300.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.003547
+  },
+  {
+   "segment": [
+    236.0,
+    238.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003542
+  },
+  {
+   "segment": [
+    21.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.003537
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "pour",
+   "noun": "squash",
+   "score": 0.003489
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "squash",
+   "score": 0.003489
+  },
+  {
+   "segment": [
+    45.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003485
+  },
+  {
+   "segment": [
+    216.0,
+    220.0
+   ],
+   "verb": "take",
+   "noun": "vegetable",
+   "score": 0.003437
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.003337
+  },
+  {
+   "segment": [
+    340.0,
+    342.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.003321
+  },
+  {
+   "segment": [
+    353.0,
+    355.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003305
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.003297
+  },
+  {
+   "segment": [
+    310.0,
+    312.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.003282
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "break",
+   "noun": "chicken",
+   "score": 0.003279
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.003231
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "take",
+   "noun": "coconut",
+   "score": 0.003224
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003219
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.003184
+  },
+  {
+   "segment": [
+    315.0,
+    317.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.003179
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002957
+  },
+  {
+   "segment": [
+    76.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002829
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002723
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.002682
+  },
+  {
+   "segment": [
+    264.0,
+    266.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002658
+  },
+  {
+   "segment": [
+    272.0,
+    274.0
+   ],
+   "verb": "take",
+   "noun": "guard:hand",
+   "score": 0.002641
+  },
+  {
+   "segment": [
+    293.0,
+    296.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002637
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002586
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002438
+  },
+  {
+   "segment": [
+    233.0,
+    235.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002195
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.002056
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002032
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.001946
+  },
+  {
+   "segment": [
+    203.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001923
+  },
+  {
+   "segment": [
+    312.0,
+    315.0
+   ],
+   "verb": "insert",
+   "noun": "wall",
+   "score": 0.001874
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001759
+  },
+  {
+   "segment": [
+    125.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001746
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001658
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001587
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    45.0,
+    49.5
+   ]
+  },
+  {
+   "segment": [
+    79.0,
+    83.5
+   ]
+  },
+  {
+   "segment": [
+    105.0,
+    109.5
+   ]
+  },
+  {
+   "segment": [
+    111.0,
+    115.5
+   ]
+  },
+  {
+   "segment": [
+    120.0,
+    124.5
+   ]
+  },
+  {
+   "segment": [
+    144.0,
+    148.5
+   ]
+  },
+  {
+   "segment": [
+    200.0,
+    204.5
+   ]
+  },
+  {
+   "segment": [
+    206.0,
+    210.5
+   ]
+  },
+  {
+   "segment": [
+    278.0,
+    282.5
+   ]
+  },
+  {
+   "segment": [
+    317.0,
+    321.5
+   ]
+  },
+  {
+   "segment": [
+    328.0,
+    332.5
+   ]
+  },
+  {
+   "segment": [
+    344.0,
+    348.5
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# CAMSPECTOR pinned dependencies (Python 3.11).
+# PyTorch is installed separately so the CUDA build can be chosen:
+#   GPU (CUDA 12.6):  pip install torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu126
+#   CPU only:         pip install torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cpu
+av==18.1.0
+numpy==2.4.6
+pandas==3.1.1
+PyYAML==6.0.3
+# encoders / benchmark
+transformers==5.23.0
+safetensors==0.8.0
+tokenizers==0.23.3
+huggingface_hub==2.4.0
+pytorchvideo==0.1.5
+fvcore==0.1.5.post20221221
+iopath==0.1.10
+# tests
+pytest==9.2.0

@@ -1,0 +1,487 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P32_07",
+ "duration_sec": 28.98,
+ "label": {
+  "name": "cooking",
+  "score": 0.999644
+ },
+ "actions": [
+  {
+   "segment": [
+    6.0,
+    22.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.569708
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.352154
+  },
+  {
+   "segment": [
+    18.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "sandwich",
+   "score": 0.114362
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.113291
+  },
+  {
+   "segment": [
+    23.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.111364
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.08409
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.080374
+  },
+  {
+   "segment": [
+    6.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.076301
+  },
+  {
+   "segment": [
+    18.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.076255
+  },
+  {
+   "segment": [
+    23.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.074242
+  },
+  {
+   "segment": [
+    6.0,
+    22.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.067051
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.05606
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.053766
+  },
+  {
+   "segment": [
+    20.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.053583
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "sandwich",
+   "score": 0.051209
+  },
+  {
+   "segment": [
+    6.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.050867
+  },
+  {
+   "segment": [
+    2.0,
+    7.0
+   ],
+   "verb": "set",
+   "noun": "machine:sous:vide",
+   "score": 0.049185
+  },
+  {
+   "segment": [
+    17.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.045875
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.043797
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.041446
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.039932
+  },
+  {
+   "segment": [
+    8.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.038057
+  },
+  {
+   "segment": [
+    20.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.035844
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.034145
+  },
+  {
+   "segment": [
+    17.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.030583
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "grater",
+   "score": 0.028827
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "grater",
+   "score": 0.025886
+  },
+  {
+   "segment": [
+    8.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.025459
+  },
+  {
+   "segment": [
+    2.0,
+    7.0
+   ],
+   "verb": "attach",
+   "noun": "machine:sous:vide",
+   "score": 0.024601
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "sandwich",
+   "score": 0.023193
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.020376
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.020158
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.019425
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "grater",
+   "score": 0.018977
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.018651
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.017839
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "grater",
+   "score": 0.017041
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.01689
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.016127
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.016102
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.015465
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.015099
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.015076
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.015076
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.013334
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.013313
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.012733
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.010066
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.009933
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.007705
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.00737
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.007066
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    23.25,
+    27.25
+   ]
+  }
+ ]
+}

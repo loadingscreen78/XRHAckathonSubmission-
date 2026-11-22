@@ -1,0 +1,1285 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P28_17",
+ "duration_sec": 62.45,
+ "label": {
+  "name": "cooking",
+  "score": 0.999762
+ },
+ "actions": [
+  {
+   "segment": [
+    38.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.408486
+  },
+  {
+   "segment": [
+    38.0,
+    58.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.279761
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.169278
+  },
+  {
+   "segment": [
+    8.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.157719
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.152252
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "shelf",
+   "score": 0.151073
+  },
+  {
+   "segment": [
+    8.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.149341
+  },
+  {
+   "segment": [
+    39.0,
+    54.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.121052
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.115934
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.092114
+  },
+  {
+   "segment": [
+    55.0,
+    62.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.084574
+  },
+  {
+   "segment": [
+    39.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.083153
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.08152
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.07547
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.071462
+  },
+  {
+   "segment": [
+    33.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.069017
+  },
+  {
+   "segment": [
+    57.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.068829
+  },
+  {
+   "segment": [
+    57.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.067735
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.06674
+  },
+  {
+   "segment": [
+    53.0,
+    62.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.064284
+  },
+  {
+   "segment": [
+    53.0,
+    62.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.062794
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "wash",
+   "noun": "shelf",
+   "score": 0.060429
+  },
+  {
+   "segment": [
+    52.0,
+    55.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.060034
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.059126
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.0564
+  },
+  {
+   "segment": [
+    33.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.05515
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "cutlery",
+   "score": 0.052576
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.051362
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.05065
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.046615
+  },
+  {
+   "segment": [
+    31.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.045805
+  },
+  {
+   "segment": [
+    31.0,
+    36.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.045805
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.044388
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.044037
+  },
+  {
+   "segment": [
+    29.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.04371
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.042386
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.041389
+  },
+  {
+   "segment": [
+    29.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.041388
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.040494
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.04045
+  },
+  {
+   "segment": [
+    35.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.039436
+  },
+  {
+   "segment": [
+    18.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.038948
+  },
+  {
+   "segment": [
+    18.0,
+    21.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.038948
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.038762
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.037517
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.037517
+  },
+  {
+   "segment": [
+    35.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.037341
+  },
+  {
+   "segment": [
+    48.0,
+    51.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.035942
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.034792
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.034123
+  },
+  {
+   "segment": [
+    55.0,
+    62.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.03133
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.031283
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.030817
+  },
+  {
+   "segment": [
+    36.0,
+    39.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.030558
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "bottle",
+   "score": 0.030187
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.029338
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.028969
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bottle",
+   "score": 0.028934
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.028431
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.028264
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.028264
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.026768
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.026706
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.026547
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.026479
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.025566
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.025265
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.025073
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.024723
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.024612
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.024413
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.024337
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.024337
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.024322
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.023577
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.023573
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "turn-off",
+   "noun": "blender",
+   "score": 0.023251
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.023178
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.023178
+  },
+  {
+   "segment": [
+    52.0,
+    55.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.022239
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "blender",
+   "score": 0.022239
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.022009
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.02175
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "shelf",
+   "score": 0.021532
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.021095
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.020565
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.020558
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "shelf",
+   "score": 0.020496
+  },
+  {
+   "segment": [
+    50.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.020456
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.02041
+  },
+  {
+   "segment": [
+    50.0,
+    53.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.020215
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.020086
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.019488
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.019431
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.019431
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.019258
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.018744
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.018169
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.017268
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.016884
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.016685
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.016553
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.016443
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.016302
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.016184
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.015886
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.015848
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.015772
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.015407
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.015136
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.015117
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.014767
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.014523
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.014317
+  },
+  {
+   "segment": [
+    11.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.013938
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.013922
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.013758
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.013556
+  },
+  {
+   "segment": [
+    48.0,
+    51.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.013314
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.013114
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.013104
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.013086
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.013027
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.012864
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "juicer",
+   "score": 0.012858
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.012709
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.012242
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "wash",
+   "noun": "juicer",
+   "score": 0.011427
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.010868
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.010788
+  },
+  {
+   "segment": [
+    11.0,
+    14.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.009291
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.008925
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.008742
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.008732
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "shelf",
+   "score": 0.008613
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "wash",
+   "noun": "shelf",
+   "score": 0.008198
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.00717
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.006689
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.002634
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.001918
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    42.0,
+    46.5
+   ]
+  },
+  {
+   "segment": [
+    51.0,
+    55.5
+   ]
+  }
+ ]
+}

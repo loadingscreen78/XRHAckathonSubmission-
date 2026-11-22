@@ -1,0 +1,721 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P04_26",
+ "duration_sec": 36.89,
+ "label": {
+  "name": "cooking",
+  "score": 0.999997
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.275328
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.207234
+  },
+  {
+   "segment": [
+    6.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.119788
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.101993
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.100601
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.100484
+  },
+  {
+   "segment": [
+    14.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.08738
+  },
+  {
+   "segment": [
+    6.0,
+    28.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.07985
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.076768
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.074699
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.073819
+  },
+  {
+   "segment": [
+    1.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.073721
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.070773
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.069939
+  },
+  {
+   "segment": [
+    14.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.069177
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.052246
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.045763
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.045719
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.044861
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "tongs",
+   "score": 0.044002
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.04058
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.038424
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.037753
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "tongs",
+   "score": 0.036409
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.036213
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.035977
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.035687
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.035515
+  },
+  {
+   "segment": [
+    21.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.035125
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.034523
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.034242
+  },
+  {
+   "segment": [
+    21.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.033486
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.033038
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.032645
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.032352
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.031483
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.030907
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.030505
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "tongs",
+   "score": 0.030228
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.029266
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.028253
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.026214
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.025612
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.025563
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "tongs",
+   "score": 0.025011
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.024831
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.024822
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.024339
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.024205
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "tongs",
+   "score": 0.024171
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.023464
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.022921
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.022622
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "tongs",
+   "score": 0.021739
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.021729
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.021234
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.020106
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "tongs",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.019821
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.018703
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.018434
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "tongs",
+   "score": 0.017988
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.017909
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.01771
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.017531
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.017455
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.017267
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.016461
+  },
+  {
+   "segment": [
+    1.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.016121
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.015692
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.01439
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.013356
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.012268
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.009147
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "check",
+   "noun": "recipe",
+   "score": 0.008862
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.007564
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.007389
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.005322
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    22.0,
+    26.5
+   ]
+  }
+ ]
+}

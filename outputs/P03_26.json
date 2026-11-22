@@ -1,0 +1,253 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P03_26",
+ "duration_sec": 11.13,
+ "label": {
+  "name": "cooking",
+  "score": 0.999466
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.353497
+  },
+  {
+   "segment": [
+    5.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.215848
+  },
+  {
+   "segment": [
+    5.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.166338
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.13095
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.087342
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.063998
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.062769
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.062135
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "freezer",
+   "score": 0.051004
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.048353
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.047783
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.041249
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.036812
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.036378
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.033276
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.021709
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.021206
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.017473
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.016548
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.016401
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.016207
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.015092
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.014183
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.013958
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.013312
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.005703
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    5.25,
+    9.25
+   ]
+  }
+ ]
+}

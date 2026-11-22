@@ -1,0 +1,739 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P26_38",
+ "duration_sec": 58.12,
+ "label": {
+  "name": "cooking",
+  "score": 0.999951
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.167104
+  },
+  {
+   "segment": [
+    35.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.115659
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.07993
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.075239
+  },
+  {
+   "segment": [
+    25.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.070562
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.066901
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.062141
+  },
+  {
+   "segment": [
+    43.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.056571
+  },
+  {
+   "segment": [
+    43.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.055672
+  },
+  {
+   "segment": [
+    14.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.055011
+  },
+  {
+   "segment": [
+    14.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.054137
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.051732
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "ladle",
+   "score": 0.044766
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.044386
+  },
+  {
+   "segment": [
+    52.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.04262
+  },
+  {
+   "segment": [
+    43.0,
+    58.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.039234
+  },
+  {
+   "segment": [
+    52.0,
+    58.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.03887
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.038591
+  },
+  {
+   "segment": [
+    43.0,
+    58.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.038325
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.037404
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.036963
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.034304
+  },
+  {
+   "segment": [
+    6.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.032473
+  },
+  {
+   "segment": [
+    6.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.031957
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.030443
+  },
+  {
+   "segment": [
+    22.0,
+    34.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.02988
+  },
+  {
+   "segment": [
+    22.0,
+    34.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.029188
+  },
+  {
+   "segment": [
+    44.0,
+    47.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.029123
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.029047
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.028331
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.02788
+  },
+  {
+   "segment": [
+    44.0,
+    47.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.027414
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "tongs",
+   "score": 0.026923
+  },
+  {
+   "segment": [
+    9.0,
+    22.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.026718
+  },
+  {
+   "segment": [
+    9.0,
+    22.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.026099
+  },
+  {
+   "segment": [
+    46.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.025944
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.025379
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.024802
+  },
+  {
+   "segment": [
+    11.0,
+    16.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.024571
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "scoop",
+   "noun": "soup",
+   "score": 0.024068
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.023889
+  },
+  {
+   "segment": [
+    11.0,
+    16.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.023129
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "soup",
+   "score": 0.022656
+  },
+  {
+   "segment": [
+    7.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "tongs",
+   "score": 0.022277
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.022189
+  },
+  {
+   "segment": [
+    36.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.022036
+  },
+  {
+   "segment": [
+    36.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.021686
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.021075
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.020456
+  },
+  {
+   "segment": [
+    23.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.019518
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.018366
+  },
+  {
+   "segment": [
+    37.0,
+    42.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.018067
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "kettle",
+   "score": 0.01788
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.017817
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.017716
+  },
+  {
+   "segment": [
+    37.0,
+    42.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.017648
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.017376
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.017226
+  },
+  {
+   "segment": [
+    12.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.016579
+  },
+  {
+   "segment": [
+    34.0,
+    37.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.016126
+  },
+  {
+   "segment": [
+    34.0,
+    37.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.015752
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.015193
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "mixture",
+   "score": 0.014934
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.014486
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.014277
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.013759
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.013367
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.012923
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.010711
+  },
+  {
+   "segment": [
+    35.0,
+    44.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.010516
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.01013
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.009895
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.008237
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "kettle",
+   "score": 0.008019
+  },
+  {
+   "segment": [
+    3.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.007502
+  },
+  {
+   "segment": [
+    25.0,
+    34.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.006416
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.006083
+  },
+  {
+   "segment": [
+    46.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.005673
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "curry",
+   "score": 0.004704
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "mixture",
+   "score": 0.003266
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    46.0,
+    50.5
+   ]
+  }
+ ]
+}

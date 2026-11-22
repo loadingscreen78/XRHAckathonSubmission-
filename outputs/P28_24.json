@@ -1,0 +1,1303 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P28_24",
+ "duration_sec": 68.25,
+ "label": {
+  "name": "cooking",
+  "score": 0.999975
+ },
+ "actions": [
+  {
+   "segment": [
+    39.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "pancake",
+   "score": 0.261713
+  },
+  {
+   "segment": [
+    39.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "pancake",
+   "score": 0.261713
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.143879
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.102355
+  },
+  {
+   "segment": [
+    65.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.092078
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.078038
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "orange",
+   "score": 0.075852
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "press",
+   "noun": "orange",
+   "score": 0.075852
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.074365
+  },
+  {
+   "segment": [
+    12.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.073566
+  },
+  {
+   "segment": [
+    12.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.069659
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.068327
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.064626
+  },
+  {
+   "segment": [
+    4.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.061344
+  },
+  {
+   "segment": [
+    0.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.061193
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.059348
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.058916
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.056196
+  },
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.054384
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.053716
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.051825
+  },
+  {
+   "segment": [
+    65.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.050215
+  },
+  {
+   "segment": [
+    4.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.048565
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.045546
+  },
+  {
+   "segment": [
+    20.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.045095
+  },
+  {
+   "segment": [
+    41.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.044889
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.044243
+  },
+  {
+   "segment": [
+    63.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.043791
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.042416
+  },
+  {
+   "segment": [
+    44.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.042184
+  },
+  {
+   "segment": [
+    63.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.041064
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.040339
+  },
+  {
+   "segment": [
+    44.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.039944
+  },
+  {
+   "segment": [
+    50.0,
+    64.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.036885
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.036689
+  },
+  {
+   "segment": [
+    41.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.035911
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.033594
+  },
+  {
+   "segment": [
+    50.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.032277
+  },
+  {
+   "segment": [
+    20.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.031427
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "salmon",
+   "score": 0.029895
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.029559
+  },
+  {
+   "segment": [
+    59.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.028017
+  },
+  {
+   "segment": [
+    27.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "salmon",
+   "score": 0.027941
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.027197
+  },
+  {
+   "segment": [
+    40.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.027187
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.026615
+  },
+  {
+   "segment": [
+    59.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.026529
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.025568
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.025366
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.024954
+  },
+  {
+   "segment": [
+    40.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.024852
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.024564
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.024402
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.024332
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "flour",
+   "score": 0.024329
+  },
+  {
+   "segment": [
+    51.0,
+    54.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.024182
+  },
+  {
+   "segment": [
+    49.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.02312
+  },
+  {
+   "segment": [
+    31.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.023081
+  },
+  {
+   "segment": [
+    56.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.02306
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.022394
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.022292
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.022109
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "pancake",
+   "score": 0.022044
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "pancake",
+   "score": 0.022044
+  },
+  {
+   "segment": [
+    31.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.021923
+  },
+  {
+   "segment": [
+    56.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.021903
+  },
+  {
+   "segment": [
+    49.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.021892
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.021837
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.021405
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.020777
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.020702
+  },
+  {
+   "segment": [
+    53.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.020476
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "pour",
+   "noun": "flour",
+   "score": 0.020132
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.020129
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "paste",
+   "score": 0.019637
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.019546
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.019516
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.019412
+  },
+  {
+   "segment": [
+    53.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pepper",
+   "score": 0.018361
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "foil",
+   "score": 0.018179
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "pizza",
+   "score": 0.018159
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.017958
+  },
+  {
+   "segment": [
+    52.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.017955
+  },
+  {
+   "segment": [
+    16.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.017821
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.017813
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "slicer",
+   "score": 0.017744
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.017678
+  },
+  {
+   "segment": [
+    38.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.017397
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "paste",
+   "score": 0.017297
+  },
+  {
+   "segment": [
+    38.0,
+    41.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.016994
+  },
+  {
+   "segment": [
+    51.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.016852
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "paste",
+   "score": 0.016532
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.016378
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "salami",
+   "score": 0.016349
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "salami",
+   "score": 0.016349
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "insert",
+   "noun": "salmon",
+   "score": 0.016303
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.016112
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.015388
+  },
+  {
+   "segment": [
+    27.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "salmon",
+   "score": 0.015237
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.015185
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.014738
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.01469
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.014601
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.014378
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.014323
+  },
+  {
+   "segment": [
+    47.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.013849
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "pizza",
+   "score": 0.013814
+  },
+  {
+   "segment": [
+    52.0,
+    55.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.01347
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.013418
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "mat:sushi",
+   "score": 0.013382
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "mat:sushi",
+   "score": 0.013382
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.013253
+  },
+  {
+   "segment": [
+    47.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.013154
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "scoop",
+   "noun": "paste",
+   "score": 0.013087
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "paprika",
+   "score": 0.012662
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.01231
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.012083
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.011914
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.011818
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "vinegar",
+   "score": 0.011796
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "orange",
+   "score": 0.011604
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "press",
+   "noun": "orange",
+   "score": 0.011604
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "scoop",
+   "noun": "paste",
+   "score": 0.011527
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.011245
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "peeler:potato",
+   "score": 0.01122
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "omelette",
+   "score": 0.011079
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "scoop",
+   "noun": "paste",
+   "score": 0.011018
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.010943
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.010795
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "peeler:potato",
+   "score": 0.010696
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "pepper",
+   "score": 0.010683
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.010681
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.010075
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.009977
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "open",
+   "noun": "paprika",
+   "score": 0.009499
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.009347
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.008945
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.008739
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.008496
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.007559
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.006918
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "flip",
+   "noun": "omelette",
+   "score": 0.004747
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    26.0,
+    30.5
+   ]
+  },
+  {
+   "segment": [
+    38.0,
+    42.5
+   ]
+  }
+ ]
+}

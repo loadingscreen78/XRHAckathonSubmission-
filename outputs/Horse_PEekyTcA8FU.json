@@ -1,0 +1,1603 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "Horse_PEekyTcA8FU",
+ "duration_sec": 229.08,
+ "label": {
+  "name": "horse",
+  "score": 0.998893
+ },
+ "actions": [
+  {
+   "segment": [
+    40.0,
+    49.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.470095
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.270723
+  },
+  {
+   "segment": [
+    0.0,
+    15.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.256482
+  },
+  {
+   "segment": [
+    125.0,
+    131.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.206574
+  },
+  {
+   "segment": [
+    73.0,
+    85.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.185172
+  },
+  {
+   "segment": [
+    133.0,
+    137.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.110684
+  },
+  {
+   "segment": [
+    87.0,
+    156.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.105676
+  },
+  {
+   "segment": [
+    28.0,
+    35.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.095523
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.095144
+  },
+  {
+   "segment": [
+    0.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.091618
+  },
+  {
+   "segment": [
+    105.0,
+    110.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.087573
+  },
+  {
+   "segment": [
+    87.0,
+    156.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.086468
+  },
+  {
+   "segment": [
+    220.0,
+    225.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.081165
+  },
+  {
+   "segment": [
+    68.0,
+    71.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.077415
+  },
+  {
+   "segment": [
+    43.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.076788
+  },
+  {
+   "segment": [
+    0.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.074965
+  },
+  {
+   "segment": [
+    157.0,
+    213.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.072433
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.064667
+  },
+  {
+   "segment": [
+    43.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.062831
+  },
+  {
+   "segment": [
+    55.0,
+    58.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.061982
+  },
+  {
+   "segment": [
+    22.0,
+    27.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.06087
+  },
+  {
+   "segment": [
+    157.0,
+    213.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.059267
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.05776
+  },
+  {
+   "segment": [
+    213.0,
+    222.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.057087
+  },
+  {
+   "segment": [
+    222.0,
+    229.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.055307
+  },
+  {
+   "segment": [
+    59.0,
+    129.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.053919
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.053897
+  },
+  {
+   "segment": [
+    157.0,
+    160.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.052753
+  },
+  {
+   "segment": [
+    51.0,
+    54.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.052436
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.051893
+  },
+  {
+   "segment": [
+    129.0,
+    221.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.051088
+  },
+  {
+   "segment": [
+    220.0,
+    225.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.048699
+  },
+  {
+   "segment": [
+    115.0,
+    118.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.048594
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.048062
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.047401
+  },
+  {
+   "segment": [
+    213.0,
+    222.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.046711
+  },
+  {
+   "segment": [
+    222.0,
+    229.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.045254
+  },
+  {
+   "segment": [
+    80.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.042718
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.042099
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.04152
+  },
+  {
+   "segment": [
+    181.0,
+    184.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.04058
+  },
+  {
+   "segment": [
+    13.0,
+    31.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.040352
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.039451
+  },
+  {
+   "segment": [
+    30.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.038869
+  },
+  {
+   "segment": [
+    174.0,
+    180.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.038605
+  },
+  {
+   "segment": [
+    45.0,
+    59.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.037659
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.037272
+  },
+  {
+   "segment": [
+    57.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "pith",
+   "score": 0.03603
+  },
+  {
+   "segment": [
+    59.0,
+    129.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.035946
+  },
+  {
+   "segment": [
+    80.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.034954
+  },
+  {
+   "segment": [
+    224.0,
+    229.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.034598
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.03421
+  },
+  {
+   "segment": [
+    129.0,
+    221.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.034059
+  },
+  {
+   "segment": [
+    30.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.031804
+  },
+  {
+   "segment": [
+    32.0,
+    43.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.031634
+  },
+  {
+   "segment": [
+    93.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.030069
+  },
+  {
+   "segment": [
+    212.0,
+    217.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.029846
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.029367
+  },
+  {
+   "segment": [
+    14.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.028134
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.027366
+  },
+  {
+   "segment": [
+    212.0,
+    217.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.027263
+  },
+  {
+   "segment": [
+    41.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "stand",
+   "score": 0.02713
+  },
+  {
+   "segment": [
+    13.0,
+    31.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.026901
+  },
+  {
+   "segment": [
+    220.0,
+    223.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.02663
+  },
+  {
+   "segment": [
+    45.0,
+    59.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.025106
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.024697
+  },
+  {
+   "segment": [
+    93.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.024055
+  },
+  {
+   "segment": [
+    57.0,
+    60.0
+   ],
+   "verb": "cut",
+   "noun": "pith",
+   "score": 0.02402
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.023856
+  },
+  {
+   "segment": [
+    167.0,
+    174.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.023747
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.023271
+  },
+  {
+   "segment": [
+    224.0,
+    229.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.023066
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "stand",
+   "score": 0.022409
+  },
+  {
+   "segment": [
+    167.0,
+    174.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.021692
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.021673
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    32.0,
+    43.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.021089
+  },
+  {
+   "segment": [
+    222.0,
+    225.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.020884
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.020674
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "remove",
+   "noun": "pith",
+   "score": 0.020365
+  },
+  {
+   "segment": [
+    109.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.019881
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.019759
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.019444
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "remove",
+   "noun": "pith",
+   "score": 0.018935
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.018617
+  },
+  {
+   "segment": [
+    41.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "stand",
+   "score": 0.018087
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "beef",
+   "score": 0.017907
+  },
+  {
+   "segment": [
+    189.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.017906
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "banana",
+   "score": 0.017402
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.01734
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.01728
+  },
+  {
+   "segment": [
+    14.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.01688
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.016781
+  },
+  {
+   "segment": [
+    222.0,
+    225.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.016708
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.016538
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.016461
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.015814
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.015103
+  },
+  {
+   "segment": [
+    8.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "stand",
+   "score": 0.014939
+  },
+  {
+   "segment": [
+    189.0,
+    192.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.014919
+  },
+  {
+   "segment": [
+    218.0,
+    221.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0148
+  },
+  {
+   "segment": [
+    154.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.01457
+  },
+  {
+   "segment": [
+    201.0,
+    204.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.014569
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.014444
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.014392
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "cut",
+   "noun": "banana",
+   "score": 0.013923
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.013783
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "noodle",
+   "score": 0.013742
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.013632
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "cut",
+   "noun": "pith",
+   "score": 0.013577
+  },
+  {
+   "segment": [
+    218.0,
+    221.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.013519
+  },
+  {
+   "segment": [
+    201.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.013308
+  },
+  {
+   "segment": [
+    138.0,
+    143.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.012972
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.012943
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "cut",
+   "noun": "pith",
+   "score": 0.012623
+  },
+  {
+   "segment": [
+    89.0,
+    94.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.012587
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.012553
+  },
+  {
+   "segment": [
+    220.0,
+    223.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.012531
+  },
+  {
+   "segment": [
+    16.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.011859
+  },
+  {
+   "segment": [
+    138.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.011849
+  },
+  {
+   "segment": [
+    61.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.011685
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.011667
+  },
+  {
+   "segment": [
+    154.0,
+    158.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.011656
+  },
+  {
+   "segment": [
+    89.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.011498
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.011466
+  },
+  {
+   "segment": [
+    109.0,
+    113.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.011361
+  },
+  {
+   "segment": [
+    10.0,
+    13.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010974
+  },
+  {
+   "segment": [
+    197.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.010859
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "crisp",
+   "score": 0.010829
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "put",
+   "noun": "beef",
+   "score": 0.010744
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.010568
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.010489
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.010076
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.009926
+  },
+  {
+   "segment": [
+    16.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.009883
+  },
+  {
+   "segment": [
+    61.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.009737
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.009638
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "put",
+   "noun": "stand",
+   "score": 0.00952
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.009204
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.009183
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.009067
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.009037
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.009001
+  },
+  {
+   "segment": [
+    26.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.008806
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.008804
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.00863
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.0085
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.008388
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.008317
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.008254
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.008224
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.008222
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "insert",
+   "noun": "crisp",
+   "score": 0.008122
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "insert",
+   "noun": "noodle",
+   "score": 0.007853
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.007597
+  },
+  {
+   "segment": [
+    145.0,
+    150.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.007295
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.007254
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.007083
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.006742
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "take",
+   "noun": "stand",
+   "score": 0.006347
+  },
+  {
+   "segment": [
+    145.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.006079
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.006045
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.005618
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.005333
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.00525
+  },
+  {
+   "segment": [
+    197.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.005109
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.004935
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.004444
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.004375
+  },
+  {
+   "segment": [
+    174.0,
+    180.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.004194
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "put",
+   "noun": "corn",
+   "score": 0.004091
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "corn",
+   "score": 0.003409
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    63.0,
+    67.5
+   ]
+  },
+  {
+   "segment": [
+    70.0,
+    74.5
+   ]
+  },
+  {
+   "segment": [
+    89.0,
+    93.5
+   ]
+  },
+  {
+   "segment": [
+    111.0,
+    115.5
+   ]
+  },
+  {
+   "segment": [
+    185.0,
+    189.5
+   ]
+  },
+  {
+   "segment": [
+    215.0,
+    219.5
+   ]
+  },
+  {
+   "segment": [
+    221.0,
+    225.5
+   ]
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "Ski_5SH1-SAkYe0",
+ "duration_sec": 119.57,
+ "label": {
+  "name": "ski",
+  "score": 0.998846
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    5.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.915196
+  },
+  {
+   "segment": [
+    4.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "powder",
+   "score": 0.211577
+  },
+  {
+   "segment": [
+    4.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "powder",
+   "score": 0.129269
+  },
+  {
+   "segment": [
+    19.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.073548
+  },
+  {
+   "segment": [
+    96.0,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.058704
+  },
+  {
+   "segment": [
+    19.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.057559
+  },
+  {
+   "segment": [
+    68.0,
+    119.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.05228
+  },
+  {
+   "segment": [
+    96.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.045942
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.039402
+  },
+  {
+   "segment": [
+    68.0,
+    119.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.034854
+  },
+  {
+   "segment": [
+    15.0,
+    68.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.029831
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.029811
+  },
+  {
+   "segment": [
+    4.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.028154
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.027922
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.027922
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.027236
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.026706
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.023867
+  },
+  {
+   "segment": [
+    91.0,
+    97.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.022922
+  },
+  {
+   "segment": [
+    4.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.022033
+  },
+  {
+   "segment": [
+    15.0,
+    68.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.019887
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "rest",
+   "score": 0.01953
+  },
+  {
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.018157
+  },
+  {
+   "segment": [
+    86.0,
+    89.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.017877
+  },
+  {
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "rest",
+   "score": 0.017263
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "holder",
+   "score": 0.015515
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "holder",
+   "score": 0.014477
+  },
+  {
+   "segment": [
+    113.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.01382
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "holder",
+   "score": 0.012133
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "holder",
+   "score": 0.011322
+  },
+  {
+   "segment": [
+    113.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.010816
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.008637
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "set",
+   "noun": "power",
+   "score": 0.008465
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.007347
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.007067
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.006562
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.00575
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.005249
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "holder",
+   "score": 0.004783
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "holder",
+   "score": 0.004463
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "choose",
+   "noun": "power",
+   "score": 0.004232
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.004099
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "remove",
+   "noun": "skin",
+   "score": 0.003333
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    36.0,
+    40.5
+   ]
+  },
+  {
+   "segment": [
+    46.0,
+    50.5
+   ]
+  },
+  {
+   "segment": [
+    52.0,
+    56.5
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1660 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "Plane_QsL_gCDHWHA",
+ "duration_sec": 205.47,
+ "label": {
+  "name": "bike",
+  "score": 0.681929
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    201.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.210158
+  },
+  {
+   "segment": [
+    0.0,
+    201.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.140105
+  },
+  {
+   "segment": [
+    199.0,
+    205.0
+   ],
+   "verb": "cut",
+   "noun": "grass:lemon",
+   "score": 0.086989
+  },
+  {
+   "segment": [
+    166.0,
+    179.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.071502
+  },
+  {
+   "segment": [
+    103.0,
+    133.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.067669
+  },
+  {
+   "segment": [
+    195.0,
+    202.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.067491
+  },
+  {
+   "segment": [
+    77.0,
+    84.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.063623
+  },
+  {
+   "segment": [
+    1.0,
+    6.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.063426
+  },
+  {
+   "segment": [
+    85.0,
+    102.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.063117
+  },
+  {
+   "segment": [
+    140.0,
+    145.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.059312
+  },
+  {
+   "segment": [
+    186.0,
+    195.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.058429
+  },
+  {
+   "segment": [
+    21.0,
+    33.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.056291
+  },
+  {
+   "segment": [
+    53.0,
+    62.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.056157
+  },
+  {
+   "segment": [
+    64.0,
+    72.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.053453
+  },
+  {
+   "segment": [
+    75.0,
+    78.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.051428
+  },
+  {
+   "segment": [
+    11.0,
+    19.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.049699
+  },
+  {
+   "segment": [
+    31.0,
+    34.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.047328
+  },
+  {
+   "segment": [
+    152.0,
+    165.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.045989
+  },
+  {
+   "segment": [
+    199.0,
+    205.0
+   ],
+   "verb": "take",
+   "noun": "grass:lemon",
+   "score": 0.043508
+  },
+  {
+   "segment": [
+    200.0,
+    205.0
+   ],
+   "verb": "take",
+   "noun": "stalk",
+   "score": 0.040829
+  },
+  {
+   "segment": [
+    200.0,
+    205.0
+   ],
+   "verb": "remove",
+   "noun": "stalk",
+   "score": 0.040829
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.040409
+  },
+  {
+   "segment": [
+    182.0,
+    185.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.039917
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.036521
+  },
+  {
+   "segment": [
+    147.0,
+    150.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.035535
+  },
+  {
+   "segment": [
+    137.0,
+    140.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.034597
+  },
+  {
+   "segment": [
+    50.0,
+    53.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.033868
+  },
+  {
+   "segment": [
+    178.0,
+    183.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.03368
+  },
+  {
+   "segment": [
+    35.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.032596
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.032235
+  },
+  {
+   "segment": [
+    73.0,
+    76.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.030826
+  },
+  {
+   "segment": [
+    62.0,
+    65.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.03046
+  },
+  {
+   "segment": [
+    131.0,
+    134.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.030345
+  },
+  {
+   "segment": [
+    151.0,
+    164.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.03021
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.029778
+  },
+  {
+   "segment": [
+    62.0,
+    65.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.028934
+  },
+  {
+   "segment": [
+    89.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.02839
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.028379
+  },
+  {
+   "segment": [
+    48.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.028073
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.027933
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "adjust",
+   "noun": "camera",
+   "score": 0.027532
+  },
+  {
+   "segment": [
+    64.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.024611
+  },
+  {
+   "segment": [
+    145.0,
+    148.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.024389
+  },
+  {
+   "segment": [
+    151.0,
+    164.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.024168
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.023554
+  },
+  {
+   "segment": [
+    89.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.022712
+  },
+  {
+   "segment": [
+    48.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.022458
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.022355
+  },
+  {
+   "segment": [
+    202.0,
+    205.0
+   ],
+   "verb": "remove",
+   "noun": "seed",
+   "score": 0.022004
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "stalk",
+   "score": 0.021986
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "remove",
+   "noun": "stalk",
+   "score": 0.021986
+  },
+  {
+   "segment": [
+    164.0,
+    167.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.021959
+  },
+  {
+   "segment": [
+    114.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.021471
+  },
+  {
+   "segment": [
+    2.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.021247
+  },
+  {
+   "segment": [
+    76.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.021222
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.020587
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.02028
+  },
+  {
+   "segment": [
+    101.0,
+    104.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.019909
+  },
+  {
+   "segment": [
+    64.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.019689
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.019577
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.018567
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "leaf",
+   "score": 0.017492
+  },
+  {
+   "segment": [
+    114.0,
+    129.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.017176
+  },
+  {
+   "segment": [
+    2.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.016998
+  },
+  {
+   "segment": [
+    76.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.016978
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.016469
+  },
+  {
+   "segment": [
+    18.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.016251
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.016097
+  },
+  {
+   "segment": [
+    146.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.016031
+  },
+  {
+   "segment": [
+    166.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.015907
+  },
+  {
+   "segment": [
+    193.0,
+    196.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.015715
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.015662
+  },
+  {
+   "segment": [
+    104.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.014721
+  },
+  {
+   "segment": [
+    104.0,
+    107.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.014721
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.014694
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.01468
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.014662
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.014662
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.014136
+  },
+  {
+   "segment": [
+    135.0,
+    139.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.014027
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "take",
+   "noun": "crisp",
+   "score": 0.013858
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.01367
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.01352
+  },
+  {
+   "segment": [
+    112.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "crisp",
+   "score": 0.01311
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013079
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.013066
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.013066
+  },
+  {
+   "segment": [
+    18.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.013001
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "stalk",
+   "score": 0.012888
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "remove",
+   "noun": "stalk",
+   "score": 0.012888
+  },
+  {
+   "segment": [
+    146.0,
+    151.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.012825
+  },
+  {
+   "segment": [
+    166.0,
+    179.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.012725
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.012555
+  },
+  {
+   "segment": [
+    181.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.012431
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.012405
+  },
+  {
+   "segment": [
+    149.0,
+    152.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.012235
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.012023
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.012012
+  },
+  {
+   "segment": [
+    187.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.01175
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "pour",
+   "noun": "bean",
+   "score": 0.011682
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.011619
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "take",
+   "noun": "leaf",
+   "score": 0.011401
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.01131
+  },
+  {
+   "segment": [
+    17.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.011229
+  },
+  {
+   "segment": [
+    135.0,
+    139.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.011222
+  },
+  {
+   "segment": [
+    138.0,
+    143.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.011219
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "leaf",
+   "score": 0.011091
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010937
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.010548
+  },
+  {
+   "segment": [
+    47.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.010481
+  },
+  {
+   "segment": [
+    85.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.010464
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "insert",
+   "noun": "crisp",
+   "score": 0.010394
+  },
+  {
+   "segment": [
+    46.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.010348
+  },
+  {
+   "segment": [
+    202.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "seed",
+   "score": 0.010314
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010273
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.010018
+  },
+  {
+   "segment": [
+    149.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.010011
+  },
+  {
+   "segment": [
+    181.0,
+    187.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.009945
+  },
+  {
+   "segment": [
+    32.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.009924
+  },
+  {
+   "segment": [
+    112.0,
+    115.0
+   ],
+   "verb": "insert",
+   "noun": "crisp",
+   "score": 0.009833
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "control:remote",
+   "score": 0.009585
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "move",
+   "noun": "control:remote",
+   "score": 0.009585
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.009507
+  },
+  {
+   "segment": [
+    187.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.0094
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "breadcrumb",
+   "score": 0.009376
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "measure",
+   "noun": "breadcrumb",
+   "score": 0.009376
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.009267
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.009208
+  },
+  {
+   "segment": [
+    17.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.009188
+  },
+  {
+   "segment": [
+    138.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.00918
+  },
+  {
+   "segment": [
+    71.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.008636
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.008631
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.008628
+  },
+  {
+   "segment": [
+    47.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.008576
+  },
+  {
+   "segment": [
+    46.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.008279
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.00821
+  },
+  {
+   "segment": [
+    193.0,
+    196.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.008199
+  },
+  {
+   "segment": [
+    133.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.008133
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.008014
+  },
+  {
+   "segment": [
+    144.0,
+    147.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.008005
+  },
+  {
+   "segment": [
+    144.0,
+    147.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.008005
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "put",
+   "noun": "bean",
+   "score": 0.007787
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.00755
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.007535
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.007414
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.007294
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "leaf",
+   "score": 0.007229
+  },
+  {
+   "segment": [
+    71.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.007066
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.006903
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.006718
+  },
+  {
+   "segment": [
+    133.0,
+    136.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.006655
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "put",
+   "noun": "nut",
+   "score": 0.00661
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "spreads",
+   "score": 0.006467
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "leaf",
+   "score": 0.006082
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.00604
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.005968
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "scoop",
+   "noun": "spreads",
+   "score": 0.005544
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "stock",
+   "score": 0.005162
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "clip",
+   "score": 0.00487
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "stock",
+   "score": 0.004617
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.004526
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "take",
+   "noun": "stock",
+   "score": 0.004384
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "pour",
+   "noun": "stock",
+   "score": 0.004368
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.00414
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.003985
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "pour",
+   "noun": "stock",
+   "score": 0.003907
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "leaf",
+   "score": 0.003856
+  },
+  {
+   "segment": [
+    179.0,
+    182.0
+   ],
+   "verb": "pour",
+   "noun": "stock",
+   "score": 0.003709
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "pour",
+   "noun": "nut",
+   "score": 0.003449
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "stock",
+   "score": 0.002711
+  },
+  {
+   "segment": [
+    35.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002507
+  },
+  {
+   "segment": [
+    131.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002334
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "pour",
+   "noun": "stock",
+   "score": 0.002294
+  },
+  {
+   "segment": [
+    62.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.002225
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001719
+  },
+  {
+   "segment": [
+    164.0,
+    167.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001689
+  },
+  {
+   "segment": [
+    101.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001531
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001428
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.001238
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    13.0,
+    17.5
+   ]
+  },
+  {
+   "segment": [
+    55.0,
+    59.5
+   ]
+  },
+  {
+   "segment": [
+    79.0,
+    83.5
+   ]
+  },
+  {
+   "segment": [
+    123.0,
+    127.5
+   ]
+  },
+  {
+   "segment": [
+    153.0,
+    157.5
+   ]
+  },
+  {
+   "segment": [
+    188.0,
+    192.5
+   ]
+  }
+ ]
+}

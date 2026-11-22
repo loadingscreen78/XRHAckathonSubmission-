@@ -1,0 +1,487 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P02_13",
+ "duration_sec": 29.51,
+ "label": {
+  "name": "cooking",
+  "score": 0.999938
+ },
+ "actions": [
+  {
+   "segment": [
+    15.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.312649
+  },
+  {
+   "segment": [
+    3.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.213379
+  },
+  {
+   "segment": [
+    15.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.170505
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.168238
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "remove",
+   "noun": "dumpling",
+   "score": 0.157519
+  },
+  {
+   "segment": [
+    19.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.150624
+  },
+  {
+   "segment": [
+    19.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.137369
+  },
+  {
+   "segment": [
+    9.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.125293
+  },
+  {
+   "segment": [
+    3.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.116368
+  },
+  {
+   "segment": [
+    7.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.099601
+  },
+  {
+   "segment": [
+    7.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.090836
+  },
+  {
+   "segment": [
+    9.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.089133
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.081629
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.080667
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "remove",
+   "noun": "dumpling",
+   "score": 0.07217
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.062322
+  },
+  {
+   "segment": [
+    22.0,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.060093
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.05609
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.05609
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "dumpling",
+   "score": 0.052517
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "fan:extractor",
+   "score": 0.044978
+  },
+  {
+   "segment": [
+    22.0,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.04275
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.03868
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "fan:extractor",
+   "score": 0.038482
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.036538
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.036525
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.036355
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.036108
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.035927
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.033983
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.033311
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.033196
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.032197
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.030487
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.029468
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.027601
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.026135
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.025471
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.024969
+  },
+  {
+   "segment": [
+    8.0,
+    13.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.024932
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.024881
+  },
+  {
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.02439
+  },
+  {
+   "segment": [
+    8.0,
+    13.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.024354
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "turn-off",
+   "noun": "fan:extractor",
+   "score": 0.02422
+  },
+  {
+   "segment": [
+    17.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "dumpling",
+   "score": 0.024062
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "tray",
+   "score": 0.021156
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-off",
+   "noun": "fan:extractor",
+   "score": 0.020722
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "tray",
+   "score": 0.020227
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.018558
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.018336
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.016965
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.016722
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    22.25,
+    26.25
+   ]
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P26_30",
+ "duration_sec": 15.28,
+ "label": {
+  "name": "cooking",
+  "score": 0.997637
+ },
+ "actions": [
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.353737
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.088466
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.085136
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.076632
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.07578
+  },
+  {
+   "segment": [
+    5.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.070337
+  },
+  {
+   "segment": [
+    5.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.069508
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.053479
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.052849
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.048908
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.045901
+  },
+  {
+   "segment": [
+    4.0,
+    9.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.040857
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "fan:extractor",
+   "score": 0.036531
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.033172
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.028626
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.028371
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.02792
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "masher",
+   "score": 0.024651
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.020406
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "fan:extractor",
+   "score": 0.019671
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.019532
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.019275
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.019082
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.01861
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.016135
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.015761
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.014405
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.014405
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.013907
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.013887
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.012665
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "soak",
+   "noun": "masher",
+   "score": 0.012326
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.012288
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.012231
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.010595
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.010595
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    5.25,
+    9.25
+   ]
+  }
+ ]
+}

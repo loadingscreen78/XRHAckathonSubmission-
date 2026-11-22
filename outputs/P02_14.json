@@ -1,0 +1,649 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P02_14",
+ "duration_sec": 32.2,
+ "label": {
+  "name": "cooking",
+  "score": 0.99984
+ },
+ "actions": [
+  {
+   "segment": [
+    6.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.210621
+  },
+  {
+   "segment": [
+    5.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.210556
+  },
+  {
+   "segment": [
+    5.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.192027
+  },
+  {
+   "segment": [
+    6.0,
+    19.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.149835
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.115118
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.075608
+  },
+  {
+   "segment": [
+    29.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.072392
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.065936
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.064795
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.064795
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.063356
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.062609
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.0586
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.05791
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.051782
+  },
+  {
+   "segment": [
+    29.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.051499
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "tablet",
+   "score": 0.051233
+  },
+  {
+   "segment": [
+    21.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.050448
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.04956
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.048466
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.047512
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.045854
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.045314
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.042644
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "turn-on",
+   "noun": "fan:extractor",
+   "score": 0.039969
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.037757
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.036939
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.036702
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.036614
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.03627
+  },
+  {
+   "segment": [
+    21.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.035888
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "fan:extractor",
+   "score": 0.035071
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "glove",
+   "score": 0.034954
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.03469
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.034478
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.034091
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.034091
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.031637
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.027355
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.027067
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.026199
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.025891
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.025007
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.024411
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.024268
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.024268
+  },
+  {
+   "segment": [
+    28.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.024123
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.022749
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.022221
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "turn-off",
+   "noun": "fan:extractor",
+   "score": 0.021523
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "turn-on",
+   "noun": "machine:washing",
+   "score": 0.019164
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "fan:extractor",
+   "score": 0.018886
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.018123
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.018106
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.017936
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.017176
+  },
+  {
+   "segment": [
+    3.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.017161
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.016778
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.016396
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "tablet",
+   "score": 0.01464
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "machine:washing",
+   "score": 0.0146
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.01187
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.01173
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.009072
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.008861
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.00776
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.007295
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.007126
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.005333
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.004347
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    17.0,
+    21.5
+   ]
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "P28_23",
+ "duration_sec": 25.16,
+ "label": {
+  "name": "cooking",
+  "score": 0.999991
+ },
+ "actions": [
+  {
+   "segment": [
+    8.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.234744
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "pancake",
+   "score": 0.182931
+  },
+  {
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "pancake",
+   "score": 0.182931
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "pancake",
+   "score": 0.173499
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pancake",
+   "score": 0.173499
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.171124
+  },
+  {
+   "segment": [
+    8.0,
+    24.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.166997
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.123918
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.088977
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "microwave",
+   "score": 0.088155
+  },
+  {
+   "segment": [
+    4.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.054254
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.050794
+  },
+  {
+   "segment": [
+    4.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.049479
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "cutter:pizza",
+   "score": 0.048766
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "hoover",
+   "score": 0.044058
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "turn-off",
+   "noun": "hoover",
+   "score": 0.044058
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.040582
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "cutter:pizza",
+   "score": 0.032507
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.029876
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "set",
+   "noun": "alarm",
+   "score": 0.029588
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.029184
+  },
+  {
+   "segment": [
+    17.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.024261
+  },
+  {
+   "segment": [
+    17.0,
+    23.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.023698
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.019327
+  },
+  {
+   "segment": [
+    22.0,
+    25.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.018816
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.018301
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.015854
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.015718
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "wash",
+   "noun": "kitchen",
+   "score": 0.015033
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.014884
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.014493
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.014076
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.013933
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.01375
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.013065
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "wash",
+   "noun": "hob",
+   "score": 0.012869
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.012571
+  },
+  {
+   "segment": [
+    15.0,
+    18.0
+   ],
+   "verb": "check",
+   "noun": "alarm",
+   "score": 0.007397
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.005777
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "dough",
+   "score": 0.005281
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    10.25,
+    14.25
+   ]
+  }
+ ]
+}

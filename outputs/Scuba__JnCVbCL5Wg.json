@@ -1,0 +1,1039 @@
+{
+ "team_id": "SpectraCore",
+ "video_id": "Scuba__JnCVbCL5Wg",
+ "duration_sec": 194.56,
+ "label": {
+  "name": "scuba",
+  "score": 0.999055
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.216493
+  },
+  {
+   "segment": [
+    183.0,
+    192.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.172771
+  },
+  {
+   "segment": [
+    0.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.153908
+  },
+  {
+   "segment": [
+    63.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.153891
+  },
+  {
+   "segment": [
+    124.0,
+    185.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.130535
+  },
+  {
+   "segment": [
+    124.0,
+    185.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.114254
+  },
+  {
+   "segment": [
+    63.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.109403
+  },
+  {
+   "segment": [
+    62.0,
+    73.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.105433
+  },
+  {
+   "segment": [
+    3.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.080501
+  },
+  {
+   "segment": [
+    73.0,
+    76.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.059858
+  },
+  {
+   "segment": [
+    21.0,
+    124.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.054124
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.052048
+  },
+  {
+   "segment": [
+    75.0,
+    85.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.05098
+  },
+  {
+   "segment": [
+    85.0,
+    125.0
+   ],
+   "verb": "brush",
+   "noun": "floor",
+   "score": 0.048678
+  },
+  {
+   "segment": [
+    21.0,
+    124.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.047373
+  },
+  {
+   "segment": [
+    127.0,
+    130.0
+   ],
+   "verb": "move",
+   "noun": "airer",
+   "score": 0.047265
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.042874
+  },
+  {
+   "segment": [
+    165.0,
+    183.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.041545
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.039348
+  },
+  {
+   "segment": [
+    60.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.038766
+  },
+  {
+   "segment": [
+    15.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.037346
+  },
+  {
+   "segment": [
+    189.0,
+    194.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.035752
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.033947
+  },
+  {
+   "segment": [
+    154.0,
+    157.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.033922
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.031717
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.031328
+  },
+  {
+   "segment": [
+    189.0,
+    194.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.031293
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.030961
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.029934
+  },
+  {
+   "segment": [
+    15.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.029877
+  },
+  {
+   "segment": [
+    31.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.029122
+  },
+  {
+   "segment": [
+    147.0,
+    154.0
+   ],
+   "verb": "move",
+   "noun": "shrimp",
+   "score": 0.029069
+  },
+  {
+   "segment": [
+    147.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "shrimp",
+   "score": 0.029069
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.028882
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.027761
+  },
+  {
+   "segment": [
+    165.0,
+    183.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.027696
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.026708
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.026708
+  },
+  {
+   "segment": [
+    75.0,
+    85.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.026507
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.026378
+  },
+  {
+   "segment": [
+    85.0,
+    125.0
+   ],
+   "verb": "wash",
+   "noun": "floor",
+   "score": 0.02531
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.024703
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.023506
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.02216
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "put",
+   "noun": "stand",
+   "score": 0.021644
+  },
+  {
+   "segment": [
+    143.0,
+    146.0
+   ],
+   "verb": "move",
+   "noun": "shrimp",
+   "score": 0.021349
+  },
+  {
+   "segment": [
+    143.0,
+    146.0
+   ],
+   "verb": "open",
+   "noun": "shrimp",
+   "score": 0.021349
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "remove",
+   "noun": "cork",
+   "score": 0.019947
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "throw",
+   "noun": "cork",
+   "score": 0.019947
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.019759
+  },
+  {
+   "segment": [
+    19.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.018806
+  },
+  {
+   "segment": [
+    187.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.018613
+  },
+  {
+   "segment": [
+    135.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.018347
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.016885
+  },
+  {
+   "segment": [
+    135.0,
+    144.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.01678
+  },
+  {
+   "segment": [
+    48.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.016445
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.016325
+  },
+  {
+   "segment": [
+    187.0,
+    190.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.016091
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "spreads",
+   "score": 0.015732
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "tuna",
+   "score": 0.015306
+  },
+  {
+   "segment": [
+    157.0,
+    162.0
+   ],
+   "verb": "move",
+   "noun": "shrimp",
+   "score": 0.015267
+  },
+  {
+   "segment": [
+    157.0,
+    162.0
+   ],
+   "verb": "open",
+   "noun": "shrimp",
+   "score": 0.015267
+  },
+  {
+   "segment": [
+    42.0,
+    45.0
+   ],
+   "verb": "squeeze",
+   "noun": "air",
+   "score": 0.015019
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.014924
+  },
+  {
+   "segment": [
+    9.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "fish",
+   "score": 0.014697
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "take",
+   "noun": "stand",
+   "score": 0.014429
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "put",
+   "noun": "rest",
+   "score": 0.013969
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.013969
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.013964
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.013945
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "funnel",
+   "score": 0.013809
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "pull",
+   "noun": "battery",
+   "score": 0.013547
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.013493
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "scoop",
+   "noun": "spreads",
+   "score": 0.013487
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.012902
+  },
+  {
+   "segment": [
+    9.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "fish",
+   "score": 0.012864
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.012776
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "take",
+   "noun": "rest",
+   "score": 0.012347
+  },
+  {
+   "segment": [
+    191.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.012003
+  },
+  {
+   "segment": [
+    55.0,
+    58.0
+   ],
+   "verb": "pull",
+   "noun": "battery",
+   "score": 0.011786
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.011665
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "roll",
+   "score": 0.01139
+  },
+  {
+   "segment": [
+    58.0,
+    61.0
+   ],
+   "verb": "move",
+   "noun": "shrimp",
+   "score": 0.011339
+  },
+  {
+   "segment": [
+    58.0,
+    61.0
+   ],
+   "verb": "open",
+   "noun": "shrimp",
+   "score": 0.011339
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.011171
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "funnel",
+   "score": 0.011048
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.010913
+  },
+  {
+   "segment": [
+    60.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.010853
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "battery",
+   "score": 0.010162
+  },
+  {
+   "segment": [
+    42.0,
+    45.0
+   ],
+   "verb": "shake",
+   "noun": "air",
+   "score": 0.010013
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.009981
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.009504
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "roll",
+   "score": 0.009112
+  },
+  {
+   "segment": [
+    55.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "battery",
+   "score": 0.008841
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.00877
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.008224
+  },
+  {
+   "segment": [
+    31.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.008153
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.008086
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.007522
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.007385
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "filter",
+   "score": 0.005823
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.005532
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "wash",
+   "noun": "filter",
+   "score": 0.005326
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "put",
+   "noun": "tuna",
+   "score": 0.004285
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.004275
+  },
+  {
+   "segment": [
+    154.0,
+    157.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.003685
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.002684
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.002407
+  },
+  {
+   "segment": [
+    48.0,
+    51.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.001787
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.001515
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    41.0,
+    45.5
+   ]
+  },
+  {
+   "segment": [
+    51.0,
+    55.5
+   ]
+  },
+  {
+   "segment": [
+    57.0,
+    61.5
+   ]
+  },
+  {
+   "segment": [
+    135.0,
+    139.5
+   ]
+  },
+  {
+   "segment": [
+    142.0,
+    146.5
+   ]
+  },
+  {
+   "segment": [
+    166.0,
+    170.5
+   ]
+  }
+ ]
+}
